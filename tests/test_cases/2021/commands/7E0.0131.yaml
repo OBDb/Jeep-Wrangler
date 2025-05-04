@@ -440,3 +440,30 @@ test_cases:
 - response: 7E804413153B0
   expected_values:
     CLR_DIST: 21424
+- response: 7E804413153B1
+  expected_values:
+    CLR_DIST: 21425
+- response: 7E804413153B2
+  expected_values:
+    CLR_DIST: 21426
+- response: 7E804413153B3
+  expected_values:
+    CLR_DIST: 21427
+- response: 7E804413153B4
+  expected_values:
+    CLR_DIST: 21428
+- response: 7E804413153B5
+  expected_values:
+    CLR_DIST: 21429
+- response: 7E804413153B6
+  expected_values:
+    CLR_DIST: 21430
+- response: 7E804413153B7
+  expected_values:
+    CLR_DIST: 21431
+- response: 7E804413153B8
+  expected_values:
+    CLR_DIST: 21432
+- response: 7E804413153B9
+  expected_values:
+    CLR_DIST: 21433
