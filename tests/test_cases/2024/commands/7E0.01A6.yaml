@@ -530,3 +530,114 @@ test_cases:
 - response: 7E80641A600024D47
   expected_values:
     ODO: 15085.5
+- response: 7E80641A600024E8B
+  expected_values:
+    ODO: 15117.9
+- response: 7E80641A600024E8D
+  expected_values:
+    ODO: 15118.1
+- response: 7E80641A600024E92
+  expected_values:
+    ODO: 15118.6
+- response: 7E80641A600024E93
+  expected_values:
+    ODO: 15118.7
+- response: 7E80641A600024E96
+  expected_values:
+    ODO: 15119
+- response: 7E80641A600024E98
+  expected_values:
+    ODO: 15119.2
+- response: 7E80641A600024E99
+  expected_values:
+    ODO: 15119.3
+- response: 7E80641A600024E9C
+  expected_values:
+    ODO: 15119.6
+- response: 7E80641A600024E9E
+  expected_values:
+    ODO: 15119.8
+- response: 7E80641A600024EA1
+  expected_values:
+    ODO: 15120.1
+- response: 7E80641A600024EA4
+  expected_values:
+    ODO: 15120.4
+- response: 7E80641A600024EA6
+  expected_values:
+    ODO: 15120.6
+- response: 7E80641A600024EA9
+  expected_values:
+    ODO: 15120.9
+- response: 7E80641A600024EAB
+  expected_values:
+    ODO: 15121.1
+- response: 7E80641A600024EB1
+  expected_values:
+    ODO: 15121.7
+- response: 7E80641A600024EB2
+  expected_values:
+    ODO: 15121.8
+- response: 7E80641A600024EB5
+  expected_values:
+    ODO: 15122.1
+- response: 7E80641A600024EBA
+  expected_values:
+    ODO: 15122.6
+- response: 7E80641A600024EBE
+  expected_values:
+    ODO: 15123
+- response: 7E80641A600024EC3
+  expected_values:
+    ODO: 15123.5
+- response: 7E80641A600024EC8
+  expected_values:
+    ODO: 15124
+- response: 7E80641A600024ECE
+  expected_values:
+    ODO: 15124.6
+- response: 7E80641A600024ED2
+  expected_values:
+    ODO: 15125
+- response: 7E80641A600024ED7
+  expected_values:
+    ODO: 15125.5
+- response: 7E80641A600024EDC
+  expected_values:
+    ODO: 15126
+- response: 7E80641A600024EE2
+  expected_values:
+    ODO: 15126.6
+- response: 7E80641A600024EE9
+  expected_values:
+    ODO: 15127.3
+- response: 7E80641A600024EEA
+  expected_values:
+    ODO: 15127.4
+- response: 7E80641A600024EEE
+  expected_values:
+    ODO: 15127.8
+- response: 7E80641A600024EF2
+  expected_values:
+    ODO: 15128.2
+- response: 7E80641A600024EF8
+  expected_values:
+    ODO: 15128.8
+- response: 7E80641A600024EFA
+  expected_values:
+    ODO: 15129
+- response: 7E80641A600024EFD
+  expected_values:
+    ODO: 15129.3
+- response: 7E80641A600024F02
+  expected_values:
+    ODO: 15129.8
+- response: 7E80641A600024F06
+  expected_values:
+    ODO: 15130.2
+- response: 7E80641A600024F09
+  expected_values:
+    ODO: 15130.5
+- response: 7E80641A600024F0A
+  expected_values:
+    ODO: 15130.6
