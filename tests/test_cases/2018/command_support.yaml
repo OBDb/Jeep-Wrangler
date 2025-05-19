@@ -62,3 +62,8 @@ supported_commands_by_ecu:
   - 0131:CLR_DIST
   - 0142:VPWR
   - 0149:APP_D
+unsupported_commands_by_ecu:
+  6B4:
+  - 6B4.694.22D410:JEEP_HVBAT_SOC
+  7E0:
+  - 7E0.7E8.0131
