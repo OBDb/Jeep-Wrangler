@@ -1,6 +1,4 @@
 model_year: 2003
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 unsupported_commands_by_ecu:
   7A0:
   - 7A0.7A8.22C00B
