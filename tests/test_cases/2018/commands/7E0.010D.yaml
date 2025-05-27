@@ -1,6 +1,4 @@
 command_id: 7E0.010D
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
 - response: 7E803410D04
   expected_values:
@@ -8,3 +6,17 @@ test_cases:
 - response: 7E803410D36
   expected_values:
     VSS: 54
+- response: |-
+    > 7E0.7E8.010D
+    7E803410D00
+  expected_values:
+    VSS: 0
+- response: |-
+    > 7F1.2240B2
+    NO DATA
+    > 6B4.694.22D410
+    NO DATA
+    > 7E0.7E8.010D
+    7E803410D00
+  expected_values:
+    VSS: 0
