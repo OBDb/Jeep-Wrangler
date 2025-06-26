@@ -1,12 +1,12 @@
 model_year: 2003
 unsupported_commands_by_ecu:
-  7A0:
+  "7A0":
   - 7A0.7A8.22C00B
-  7C6:
+  "7C6":
   - 7C6.7CE.22B002
-  7E2:
+  "7E2":
   - 7E2.7EA.2101
-  7E4:
+  "7E4":
   - 7E4.7EC.220101
   - 7E4.7EC.220102
   - 7E4.7EC.220103

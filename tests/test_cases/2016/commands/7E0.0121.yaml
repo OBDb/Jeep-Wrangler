@@ -1,5 +1,5 @@
 command_id: 7E0.0121
 test_cases:
-- response: 7E804412119F0
-  expected_values:
+- expected_values:
     MIL_DIST: 6640
+  response: 7E804412119F0
