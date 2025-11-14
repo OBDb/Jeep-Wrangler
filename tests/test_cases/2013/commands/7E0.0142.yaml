@@ -23,6 +23,16 @@ test_cases:
     7E80441423649
     7E80462067C16
 - expected_values:
+    VPWR: 14.113
+  response: |-
+    7E80441423721
+    7E80562019E0388
+    7E8046203D623
+    7E80462022790
+    7E8046201274F
+    7E8076201CA00007227
+    7E80462067C29
+- expected_values:
     VPWR: 14.159
   response: |-
     7E8044142374F
