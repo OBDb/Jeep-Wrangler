@@ -1,4 +1,5 @@
 model_year: 1997
+supported_commands_by_ecu: {}
 unsupported_commands_by_ecu:
   "6B4":
   - 6B4.694.22D410:JEEP_HVBAT_SOC
