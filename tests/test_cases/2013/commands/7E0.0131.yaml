@@ -47,10 +47,10 @@ test_cases:
     7E8076201CA00002765
     7E80462067CFE
 - expected_values:
-    CLR_DIST: 16643
-  response: '7E80441314103'
-- expected_values:
     CLR_DIST: 16736
   response: |-
     7E80441314160
     7E8046201274F
+- expected_values:
+    CLR_DIST: 16970
+  response: 7E8044131424A

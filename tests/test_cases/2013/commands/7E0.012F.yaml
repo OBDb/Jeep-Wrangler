@@ -79,6 +79,16 @@ test_cases:
     7E8076201CA0000BB1B
     7E80462067C3F
 - expected_values:
+    FLI: 61.96078
+  response: |-
+    7E803412F9E
+    7E80562019E03A4
+    7E8046203D659
+    7E804620227A2
+    7E80462012748
+    7E8076201CA00008CE0
+    7E80462067C33
+- expected_values:
     FLI: 62.7451
   response: |-
     7E803412FA0
