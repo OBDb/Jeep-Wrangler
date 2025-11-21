@@ -65,6 +65,17 @@ test_cases:
     7E8076201CA000046F9
     7E80462067C4B
 - expected_values:
+    VSS: 46
+  response: |-
+    7E803410D2E
+    7E8056201D504AA
+    7E80562019E03A1
+    7E8046203D639
+    7E80462022794
+    7E8046201274C
+    7E8076201CA00001296
+    7E80462067C08
+- expected_values:
     VSS: 66
   response: |-
     7E803410D42
@@ -136,3 +147,15 @@ test_cases:
 - expected_values:
     VSS: 128
   response: 7E803410D80
+- expected_values:
+    VSS: 44
+  response: |-
+    7E80462012357
+    7E803410D2C
+    7E8056201D50484
+    7E80562019E03A3
+    7E8046203D637
+    7E80462022797
+    7E8046201274C
+    7E8076201CA0000135E
+    7E80462067C1E
