@@ -12,6 +12,17 @@ test_cases:
     7E8076201CA0000346B
     7E80462067C0D
 - expected_values:
+    VSS: 5
+  response: |-
+    7E803410D05
+    7E8056201D5027F
+    7E80562019E039E
+    7E8046203D606
+    7E8046202279C
+    7E80462012749
+    7E8076201CA00001880
+    7E80462067C3C
+- expected_values:
     VSS: 17
   response: |-
     7E803410D11
