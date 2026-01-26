@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Jeep_Wrangler"
+
 generations:
   - name: "First Generation (YJ)"
     start_year: 1986
