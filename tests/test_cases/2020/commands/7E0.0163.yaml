@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     TQ_REF: 350
   response: 7E8044163015E
+- expected_values:
+    TQ_REF: 400
+  response: '7E80441630190'
