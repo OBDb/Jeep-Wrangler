@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     WARM_UPS: 63
   response: 7E80341303F
+- expected_values:
+    WARM_UPS: 130
+  response: '7E803413082'
+- expected_values:
+    WARM_UPS: 255
+  response: 7E8034130FF

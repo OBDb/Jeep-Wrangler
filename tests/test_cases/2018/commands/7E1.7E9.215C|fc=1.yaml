@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.215C|fc=1
+test_cases:
+- expected_values:
+    JEEP_ATF_T_3RDGEN_V2: 55
+  response: 7E907615C0110044469
+- expected_values:
+    JEEP_ATF_T_3RDGEN_V2: 44
+  response: 7E907615C0DD000505E
+- expected_values:
+    JEEP_ATF_T_3RDGEN_V2: 100
+  response: 7E907615C0DD0005096

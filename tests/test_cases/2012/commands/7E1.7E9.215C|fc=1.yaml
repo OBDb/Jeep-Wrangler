@@ -1,0 +1,29 @@
+command_id: 7E1.7E9.215C|fc=1
+test_cases:
+- expected_values:
+    JEEP_ATF_T_3RDGEN_V2: 52
+  response: 7E907615C0000024E66
+- expected_values:
+    JEEP_ATF_T_3RDGEN_V2: 61
+  response: 7E907615C001004446F
+- expected_values:
+    JEEP_ATF_T_3RDGEN_V2: 34
+  response: 7E907615C00B0015254
+- expected_values:
+    JEEP_ATF_T_3RDGEN_V2: 77
+  response: 7E907615C011004337F
+- expected_values:
+    JEEP_ATF_T_3RDGEN_V2: 13
+  response: 7E907615C033004443F
+- expected_values:
+    JEEP_ATF_T_3RDGEN_V2: 60
+  response: 7E907615C03E004446E
+- expected_values:
+    JEEP_ATF_T_3RDGEN_V2: 74
+  response: 7E907615C0DB001527C
+- expected_values:
+    JEEP_ATF_T_3RDGEN_V2: 25
+  response: 7E907615C0DD000504B
+- expected_values:
+    JEEP_ATF_T_3RDGEN_V2: 108
+  response: 7E907615C0DD000509E

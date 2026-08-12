@@ -2,70 +2,64 @@ command_id: 740.4C0.22A0F2|fc=1
 test_cases:
 - expected_values:
     JEEP_TP_FR_V2: 0
+    JEEP_TT_FR_V2: 74
+  response: |-
+    4C0100962A0F2007C3C
+    4C02100515DF2007C3C
+- expected_values:
+    JEEP_TP_FR_V2: 0
+    JEEP_TT_FR_V2: 80
+  response: |-
+    4C0100962A0F200824B
+    4C02100035DF200824B
+- expected_values:
+    JEEP_TP_FR_V2: 0
+    JEEP_TT_FR_V2: 80
+  response: |-
+    4C0100962A0F200824B
+    4C0215F0B5DF200824B
+- expected_values:
+    JEEP_TP_FR_V2: 0
+    JEEP_TT_FR_V2: 80
+  response: |-
+    4C0100962A0F200824F
+    4C0217A0B5DF200824F
+- expected_values:
+    JEEP_TP_FR_V2: 0
     JEEP_TT_FR_V2: 82
   response: |-
-    4C0100962A0F200844B
-    4C021430B5DF200844B
+    4C0100962A0F2008450
+    4C02100915DF2008450
 - expected_values:
     JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 84
+    JEEP_TT_FR_V2: 82
   response: |-
-    4C0100962A0F200864B
-    4C02100915DF200864B
+    4C0100962A0F2008454
+    4C021F50B5DF2008454
 - expected_values:
     JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 84
+    JEEP_TT_FR_V2: 88
   response: |-
-    4C0100962A0F200864B
-    4C0210F0B5DF200864B
+    4C0100962A0F2008A38
+    4C02100035DF2008A38
 - expected_values:
     JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 84
+    JEEP_TT_FR_V2: 92
   response: |-
-    4C0100962A0F200864B
-    4C021300B5DF200864B
-- expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 84
-  response: |-
-    4C0100962A0F200864B
-    4C021FF0B5DF200864B
-- expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 84
-  response: |-
-    4C0100962A0F200864F
-    4C02100915DF200864F
-- expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 86
-  response: |-
-    4C0100962A0F2008850
-    4C02100035DF2008850
+    4C0100962A0F2008E60
+    4C02100915DF2008E60
 - expected_values:
     JEEP_TP_FR_V2: 0
     JEEP_TT_FR_V2: 94
   response: |-
-    4C0100962A0F200904C
-    4C02100915DF200904C
+    4C0100962A0F200903D
+    4C02100915DF200903D
 - expected_values:
     JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 96
+    JEEP_TT_FR_V2: 100
   response: |-
-    4C0100962A0F2009262
-    4C0212D0B5DF2009262
-- expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 102
-  response: |-
-    4C0100962A0F2009842
-    4C02110035DF2009842
-- expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 108
-  response: |-
-    4C0100962A0F2009E61
-    4C021470B5DF2009E61
+    4C0100962A0F2009664
+    4C02100035DF2009664
 - expected_values:
     JEEP_TP_FR_V2: 0
     JEEP_TT_FR_V2: 126

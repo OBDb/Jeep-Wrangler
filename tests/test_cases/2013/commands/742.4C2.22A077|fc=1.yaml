@@ -1,0 +1,10 @@
+command_id: 742.4C2.22A077|fc=1
+test_cases:
+- expected_values:
+    JEEP_TP_FL_V3: 0
+    JEEP_TP_FR_V3: 0
+    JEEP_TP_RL_V3: 0
+    JEEP_TP_RR_V3: 0
+  response: |-
+    4C2100B62A077000000
+    4C22100000000000000
