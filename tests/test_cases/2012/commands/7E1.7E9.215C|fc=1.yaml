@@ -13,6 +13,9 @@ test_cases:
     JEEP_ATF_T_3RDGEN_V2: 77
   response: 7E907615C011004337F
 - expected_values:
+    JEEP_ATF_T_3RDGEN_V2: 68
+  response: 7E907615C0330004476
+- expected_values:
     JEEP_ATF_T_3RDGEN_V2: 13
   response: 7E907615C033004443F
 - expected_values:
@@ -21,9 +24,6 @@ test_cases:
 - expected_values:
     JEEP_ATF_T_3RDGEN_V2: 74
   response: 7E907615C0DB001527C
-- expected_values:
-    JEEP_ATF_T_3RDGEN_V2: 25
-  response: 7E907615C0DD000504B
 - expected_values:
     JEEP_ATF_T_3RDGEN_V2: 108
   response: 7E907615C0DD000509E
