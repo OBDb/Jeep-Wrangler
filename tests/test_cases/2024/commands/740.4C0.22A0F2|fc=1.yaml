@@ -8,10 +8,10 @@ test_cases:
     4C02100515DF2007C3C
 - expected_values:
     JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 78
+    JEEP_TT_FR_V2: 76
   response: |-
-    4C0100962A0F200804D
-    4C021330B5DF200804D
+    4C0100962A0F2007E4C
+    4C021270B5DF2007E4C
 - expected_values:
     JEEP_TP_FR_V2: 0
     JEEP_TT_FR_V2: 80
