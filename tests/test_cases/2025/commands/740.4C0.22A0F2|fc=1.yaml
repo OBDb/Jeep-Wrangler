@@ -70,5 +70,11 @@ test_cases:
     JEEP_TP_FR_V2: 0
     JEEP_TT_FR_V2: 130
   response: |-
+    4C0100962A0F200B45F
+    4C02100515DF200B45F
+- expected_values:
+    JEEP_TP_FR_V2: 0
+    JEEP_TT_FR_V2: 130
+  response: |-
     4C0100962A0F200B460
     4C02100515DF200B460
