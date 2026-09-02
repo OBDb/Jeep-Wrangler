@@ -760,6 +760,17 @@ test_cases:
     FLI: 31.76471
   response: |-
     7E803412F51
+    7E8046201237C
+    7E8056201D504A4
+    7E80562019E0382
+    7E8046203D621
+    7E80462022784
+    7E80462012763
+    7E80462067C41
+- expected_values:
+    FLI: 31.76471
+  response: |-
+    7E803412F51
     7E80462067C00
 - expected_values:
     FLI: 32.94118

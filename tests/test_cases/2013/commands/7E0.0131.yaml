@@ -309,6 +309,16 @@ test_cases:
     7E8076201CA0000E1BF
     7E80462067C24
 - expected_values:
+    CLR_DIST: 161
+  response: |-
+    7E804413100A1
+    7E8056201D50830
+    7E80562019E0378
+    7E8046203D618
+    7E80462022784
+    7E80462012763
+    7E80462067C4C
+- expected_values:
     CLR_DIST: 164
   response: |-
     7E804413100A4
