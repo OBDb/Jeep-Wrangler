@@ -1118,6 +1118,16 @@ test_cases:
     TP: 12.54902
   response: |-
     7E803411120
+    7E8056201D50652
+    7E80562019E037B
+    7E8046203D65D
+    7E80462022776
+    7E80462012763
+    7E80462067C04
+- expected_values:
+    TP: 12.54902
+  response: |-
+    7E803411120
     7E8076201CA000017BD
     7E80462067C00
 - expected_values:
@@ -1133,6 +1143,15 @@ test_cases:
     7E8046201273C
     7E8076201CA00001D4B
     7E80462067C1A
+- expected_values:
+    TP: 12.94118
+  response: |-
+    7E803411121
+    7E80462011DA7
+    7E8046201237E
+    7E8056201D50548
+    7E80562019E037C
+    7E8046203D640
 - expected_values:
     TP: 12.94118
   response: |-
@@ -1452,6 +1471,14 @@ test_cases:
     TP: 16.47059
   response: |-
     7E80341112A
+    7E8046203D61F
+    7E80462022776
+    7E80462012762
+    7E80462067C19
+- expected_values:
+    TP: 16.47059
+  response: |-
+    7E80341112A
     7E8056201D50685
     7E80562019E03A1
     7E8046203D634
@@ -1491,17 +1518,6 @@ test_cases:
     7E8056201D50511
     7E80562019E03A8
     7E8046203D639
-- expected_values:
-    TP: 17.64706
-  response: |-
-    7E80341112D
-    7E80462012372
-    7E8056201D506DD
-    7E80562019E0384
-    7E8046203D661
-    7E80462022776
-    7E80462012761
-    7E80462067C53
 - expected_values:
     TP: 17.64706
   response: |-
@@ -1586,6 +1602,19 @@ test_cases:
     TP: 18.43137
   response: |-
     7E80341112F
+    7E80462067C33
+    7E80462011DA8
+    7E80462012381
+    7E8056201D50475
+    7E80562019E0375
+    7E8046203D622
+    7E80462022775
+    7E80462012762
+    7E80462067C32
+- expected_values:
+    TP: 18.43137
+  response: |-
+    7E80341112F
     7E80462067C63
 - expected_values:
     TP: 18.43137
@@ -1617,6 +1646,17 @@ test_cases:
     7E80462022778
     7E80462012762
     7E80462067C35
+- expected_values:
+    TP: 19.21569
+  response: |-
+    7E803411131
+    7E8046201237F
+    7E8056201D50766
+    7E80562019E036D
+    7E8046203D615
+    7E80462022775
+    7E80462012762
+    7E80462067C54
 - expected_values:
     TP: 19.21569
   response: |-
@@ -1745,6 +1785,17 @@ test_cases:
     7E80562019E03AE
     7E8046203D66C
 - expected_values:
+    TP: 21.96078
+  response: |-
+    7E803411138
+    7E8046201237C
+    7E8056201D506EE
+    7E80562019E037C
+    7E8046203D65F
+    7E80462022776
+    7E80462012762
+    7E80462067C48
+- expected_values:
     TP: 22.35294
   response: |-
     7E803411139
@@ -1816,6 +1867,17 @@ test_cases:
     7E804620227A7
     7E8046201275B
     7E80462067C25
+- expected_values:
+    TP: 23.92157
+  response: |-
+    7E80341113D
+    7E80462012374
+    7E8056201D506DA
+    7E80562019E0382
+    7E8046203D65D
+    7E80462022776
+    7E80462012762
+    7E80462067C5E
 - expected_values:
     TP: 24.31373
   response: |-
@@ -1905,16 +1967,6 @@ test_cases:
     7E80462022778
     7E8046201275F
     7E80462067C40
-- expected_values:
-    TP: 26.66667
-  response: |-
-    7E803411144
-    7E8056201D504E3
-    7E80562019E0380
-    7E8046203D635
-    7E80462022778
-    7E80462012760
-    7E80462067C20
 - expected_values:
     TP: 26.66667
   response: |-
@@ -2126,11 +2178,6 @@ test_cases:
     7E80462012747
     7E8076201CA00012C0B
     7E80462067C32
-- expected_values:
-    TP: 37.2549
-  response: |-
-    7E80341115F
-    7E80462067C24
 - expected_values:
     TP: 37.2549
   response: |-
@@ -2474,6 +2521,11 @@ test_cases:
     7E8046201273F
     7E8076201CA00001312
     7E80462067C04
+- expected_values:
+    TP: 17.2549
+  response: |-
+    7E80462067C37
+    7E80341112C
 - expected_values:
     TP: 12.15686
   response: |-
