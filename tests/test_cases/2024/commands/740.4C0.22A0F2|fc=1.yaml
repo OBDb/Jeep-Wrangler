@@ -35,7 +35,7 @@ test_cases:
     JEEP_TT_FR_V2: 78
   response: |-
     4C0100962A0F200804F
-    4C02100915DF200804F
+    4C02100035DF200804F
 - expected_values:
     JEEP_TP_FR_V2: 0
     JEEP_TT_FR_V2: 78
