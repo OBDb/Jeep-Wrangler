@@ -1029,6 +1029,16 @@ test_cases:
     7E803410D10
     7E8056201D502CF
 - expected_values:
+    VSS: 18
+  response: |-
+    7E803410D12
+    7E8056201D507AE
+    7E80562019E036D
+    7E8046203D616
+    7E80462022775
+    7E80462012762
+    7E80462067C58
+- expected_values:
     VSS: 19
   response: |-
     7E803410D13
@@ -1155,6 +1165,17 @@ test_cases:
     7E8046201274D
     7E8076201CA00001005
     7E80462067C31
+- expected_values:
+    VSS: 25
+  response: |-
+    7E803410D19
+    7E80462012382
+    7E8056201D504C0
+    7E80562019E0375
+    7E8046203D61F
+    7E80462022776
+    7E80462012762
+    7E80462067C19
 - expected_values:
     VSS: 25
   response: |-
@@ -1439,6 +1460,16 @@ test_cases:
     7E8076201CA00010E87
     7E80462067C35
 - expected_values:
+    VSS: 37
+  response: |-
+    7E803410D25
+    7E8056201D505D1
+    7E80562019E037C
+    7E8046203D62E
+    7E80462022775
+    7E80462012760
+    7E80462067C48
+- expected_values:
     VSS: 38
   response: |-
     7E803410D26
@@ -1648,6 +1679,15 @@ test_cases:
     VSS: 48
   response: |-
     7E803410D30
+    7E80562019E037A
+    7E8046203D63B
+    7E80462022775
+    7E80462012761
+    7E80462067C52
+- expected_values:
+    VSS: 48
+  response: |-
+    7E803410D30
     7E80562019E03A3
     7E8046203D63B
     7E80462022792
@@ -1672,6 +1712,17 @@ test_cases:
     7E80462012764
     7E8076201CA00004151
     7E80462067C42
+- expected_values:
+    VSS: 50
+  response: |-
+    7E803410D32
+    7E80462012379
+    7E8056201D505C7
+    7E80562019E037C
+    7E8046203D63F
+    7E80462022775
+    7E80462012762
+    7E80462067C40
 - expected_values:
     VSS: 51
   response: |-
@@ -1701,15 +1752,16 @@ test_cases:
     7E80562019E039E
     7E8046203D640
 - expected_values:
-    VSS: 54
+    VSS: 53
   response: |-
-    7E803410D36
-    7E8056201D5050D
-    7E80562019E0382
-    7E8046203D644
-    7E80462022778
+    7E803410D35
+    7E8046201237E
+    7E8056201D5057C
+    7E80562019E0383
+    7E8046203D642
+    7E80462022774
     7E80462012762
-    7E80462067C3E
+    7E80462067C4B
 - expected_values:
     VSS: 55
   response: |-
@@ -1740,6 +1792,16 @@ test_cases:
     7E80462012747
     7E8076201CA0000C117
     7E80462067C3D
+- expected_values:
+    VSS: 57
+  response: |-
+    7E803410D39
+    7E8056201D505CB
+    7E80562019E0380
+    7E8046203D647
+    7E80462022776
+    7E80462012763
+    7E80462067CFF
 - expected_values:
     VSS: 60
   response: |-
@@ -1861,6 +1923,16 @@ test_cases:
     7E8076201CA000075F7
     7E80462067C35
 - expected_values:
+    VSS: 69
+  response: |-
+    7E803410D45
+    7E8056201D50641
+    7E80562019E037D
+    7E8046203D656
+    7E80462022776
+    7E80462012762
+    7E80462067C33
+- expected_values:
     VSS: 71
   response: |-
     7E803410D47
@@ -1876,16 +1948,6 @@ test_cases:
     VSS: 71
   response: |-
     7E803410D47
-    7E8056201D50616
-    7E80562019E0380
-    7E8046203D659
-    7E80462022776
-    7E80462012761
-    7E80462067C3E
-- expected_values:
-    VSS: 71
-  response: |-
-    7E803410D47
     7E8076201CA00009619
     7E80462067C3B
     7E80462011DA4
@@ -1897,16 +1959,6 @@ test_cases:
     7E8046201274C
     7E8076201CA00008AD5
     7E80462067C3A
-- expected_values:
-    VSS: 72
-  response: |-
-    7E803410D48
-    7E8056201D506A5
-    7E80562019E0379
-    7E8046203D659
-    7E80462022777
-    7E80462012761
-    7E80462067C4B
 - expected_values:
     VSS: 74
   response: |-
@@ -1929,6 +1981,18 @@ test_cases:
     7E8046201274A
     7E8076201CA00007FF4
     7E80462067C45
+- expected_values:
+    VSS: 74
+  response: |-
+    7E803410D4A
+    7E80462011DA6
+    7E8046201237C
+    7E8056201D506EA
+    7E80562019E0382
+    7E8046203D65B
+    7E80462022776
+    7E80462012762
+    7E80462067C4B
 - expected_values:
     VSS: 74
   response: |-
@@ -1995,17 +2059,6 @@ test_cases:
     VSS: 77
   response: |-
     7E803410D4D
-    7E80462012375
-    7E8056201D5075A
-    7E80562019E0382
-    7E8046203D660
-    7E80462022778
-    7E80462012762
-    7E80462067C2C
-- expected_values:
-    VSS: 77
-  response: |-
-    7E803410D4D
     7E8056201D5071B
     7E80562019E037F
     7E8046203D660
@@ -2034,6 +2087,17 @@ test_cases:
     7E8056201D506C3
     7E80562019E03B4
     7E8046203D661
+- expected_values:
+    VSS: 79
+  response: |-
+    7E803410D4F
+    7E80462012372
+    7E8056201D50713
+    7E80562019E0380
+    7E8046203D662
+    7E80462022776
+    7E80462012761
+    7E80462067C52
 - expected_values:
     VSS: 79
   response: |-
@@ -2088,6 +2152,14 @@ test_cases:
     7E8046201273C
     7E8076201CA00008172
     7E80462067C54
+- expected_values:
+    VSS: 81
+  response: |-
+    7E803410D51
+    7E8046203D665
+    7E80462022776
+    7E80462012762
+    7E80462067C3C
 - expected_values:
     VSS: 81
   response: |-
@@ -2147,6 +2219,17 @@ test_cases:
     7E8046201273F
     7E8076201CA00007948
     7E80462067C4E
+- expected_values:
+    VSS: 83
+  response: |-
+    7E803410D53
+    7E80462012377
+    7E8056201D507BC
+    7E80562019E0383
+    7E8046203D667
+    7E80462022776
+    7E80462012762
+    7E80462067C47
 - expected_values:
     VSS: 83
   response: |-
