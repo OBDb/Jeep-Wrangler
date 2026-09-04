@@ -8,10 +8,10 @@ test_cases:
     4C02100515CF1007A3A
 - expected_values:
     JEEP_TP_FL_V2: 0
-    JEEP_TT_FL_V2: 78
+    JEEP_TT_FL_V2: 76
   response: |-
-    4C0100962A0F100804B
-    4C02100035CF100804B
+    4C0100962A0F1007E4A
+    4C02100035CF1007E4A
 - expected_values:
     JEEP_TP_FL_V2: 0
     JEEP_TT_FL_V2: 78
