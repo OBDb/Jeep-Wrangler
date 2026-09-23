@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22043B
 test_cases:
 - expected_values:
-    JEEP_ODO: 63479.808
-  response: 7E80562043B1E45
+    JEEP_ODO: 28237.824
+  response: 7E80562043B0D77
 - expected_values:
     JEEP_ODO: 65003.52
   response: 7E80562043B1EFF
