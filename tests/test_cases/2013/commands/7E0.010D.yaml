@@ -630,6 +630,16 @@ test_cases:
     VSS: 0
   response: |-
     7E803410D00
+    7E8056201D5030C
+    7E80562019E039F
+    7E8046203D600
+    7E80462022779
+    7E80462012754
+    7E80462067C17
+- expected_values:
+    VSS: 0
+  response: |-
+    7E803410D00
     7E8076201CA00000E99
     7E80462067C13
 - expected_values:
@@ -713,6 +723,17 @@ test_cases:
     7E80462012750
     7E8076201CA00001744
     7E80462067C26
+- expected_values:
+    VSS: 4
+  response: |-
+    7E803410D04
+    7E80462012356
+    7E8056201D5029A
+    7E80562019E0399
+    7E8046203D605
+    7E80462022776
+    7E80462012754
+    7E80462067C23
 - expected_values:
     VSS: 4
   response: |-
@@ -1179,17 +1200,6 @@ test_cases:
     VSS: 25
   response: |-
     7E803410D19
-    7E80462012382
-    7E8056201D504C0
-    7E80562019E0375
-    7E8046203D61F
-    7E80462022776
-    7E80462012762
-    7E80462067C19
-- expected_values:
-    VSS: 25
-  response: |-
-    7E803410D19
     7E80462022774
     7E80462012755
     7E8076201CA00003F88
@@ -1259,6 +1269,18 @@ test_cases:
     7E803410D1A
     7E8076201CA00001282
     7E80462067CFE
+- expected_values:
+    VSS: 27
+  response: |-
+    7E803410D1B
+    7E80462011D89
+    7E80462012355
+    7E8056201D50543
+    7E80562019E039C
+    7E8046203D622
+    7E80462022775
+    7E80462012754
+    7E80462067C39
 - expected_values:
     VSS: 27
   response: |-
@@ -1460,6 +1482,17 @@ test_cases:
     7E8056201D5053D
     7E80562019E03AF
     7E8046203D62E
+- expected_values:
+    VSS: 37
+  response: |-
+    7E803410D25
+    7E80462012355
+    7E8056201D5085B
+    7E80562019E03A6
+    7E8046203D62F
+    7E80462022775
+    7E80462012754
+    7E80462067C3C
 - expected_values:
     VSS: 37
   response: |-
@@ -2566,6 +2599,17 @@ test_cases:
     7E8046201274D
     7E8076201CA00001A67
     7E80462067C12
+- expected_values:
+    VSS: 21
+  response: |-
+    7E80462012356
+    7E803410D15
+    7E8056201D50318
+    7E80562019E039E
+    7E8046203D619
+    7E80462022775
+    7E80462012754
+    7E80462067C32
 - expected_values:
     VSS: 38
   response: |-
