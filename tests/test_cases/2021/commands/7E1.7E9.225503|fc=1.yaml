@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.225503|fc=1
 test_cases:
 - expected_values:
-    JEEP_GEAR: PARK
+    JEEP_GEAR_V2: PARK
   response: '7E9 04 62 55 03 0D '
 - expected_values:
-    JEEP_GEAR: NEUTRAL
+    JEEP_GEAR_V2: NEUTRAL
   response: '7E90462550300'
 - expected_values:
-    JEEP_GEAR: PARK
+    JEEP_GEAR_V2: PARK
   response: 7E9046255030D
