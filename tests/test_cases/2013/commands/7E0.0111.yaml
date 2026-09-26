@@ -197,6 +197,17 @@ test_cases:
     TP: 11.37255
   response: |-
     7E80341111D
+    7E80462012360
+    7E8056201D502B7
+    7E80562019E039C
+    7E8046203D616
+    7E80462022787
+    7E8046201274F
+    7E80462067C4A
+- expected_values:
+    TP: 11.37255
+  response: |-
+    7E80341111D
     7E80462012363
 - expected_values:
     TP: 11.37255
@@ -2486,6 +2497,13 @@ test_cases:
     7E8046203D636
     7E80462022777
     7E80462012761
+    7E80462067C39
+- expected_values:
+    TP: 39.21569
+  response: |-
+    7E803411164
+    7E80462022787
+    7E8046201274F
     7E80462067C39
 - expected_values:
     TP: 40
