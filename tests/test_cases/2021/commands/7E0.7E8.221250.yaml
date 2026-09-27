@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221250
+test_cases:
+- expected_values:
+    WRANGLER_CHG_AIR_T: 70
+  response: '7E80462125055'
+- expected_values:
+    WRANGLER_CHG_AIR_T: 71.8
+  response: '7E80462125056'
