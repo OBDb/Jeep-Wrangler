@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220127
+test_cases:
+- expected_values:
+    WRANGLER_AAT: 93.4
+  response: '7E80462012762'
+- expected_values:
+    WRANGLER_AAT: 95.2
+  response: '7E80462012763'
+- expected_values:
+    WRANGLER_AAT: 97
+  response: '7E80462012764'

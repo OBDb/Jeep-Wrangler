@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220235
+test_cases:
+- expected_values:
+    WRANGLER_INJ_WIDTH_CYL_2: 0.288
+  response: '7E80762023500000120'
+- expected_values:
+    WRANGLER_INJ_WIDTH_CYL_2: 1.136
+  response: '7E80762023500000470'
+- expected_values:
+    WRANGLER_INJ_WIDTH_CYL_2: 2.976
+  response: 7E80762023500000BA0
+- expected_values:
+    WRANGLER_INJ_WIDTH_CYL_2: 3.264
+  response: 7E80762023500000CC0
+- expected_values:
+    WRANGLER_INJ_WIDTH_CYL_2: 3.44
+  response: 7E80762023500000D70
+- expected_values:
+    WRANGLER_INJ_WIDTH_CYL_2: 5.576
+  response: 7E807620235000015C8
