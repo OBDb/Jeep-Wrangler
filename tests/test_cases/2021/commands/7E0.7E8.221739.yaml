@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221739
+test_cases:
+- expected_values:
+    WRANGLER_RL_WHL_SPD: 0
+  response: '7E8056217390000'
+- expected_values:
+    WRANGLER_RL_WHL_SPD: 14.90625
+  response: 7E80562173903BA
+- expected_values:
+    WRANGLER_RL_WHL_SPD: 25.875
+  response: '7E8056217390678'
+- expected_values:
+    WRANGLER_RL_WHL_SPD: 35.35938
+  response: 7E80562173908D7
+- expected_values:
+    WRANGLER_RL_WHL_SPD: 46.40625
+  response: 7E8056217390B9A
+- expected_values:
+    WRANGLER_RL_WHL_SPD: 50.40625
+  response: 7E8056217390C9A
+- expected_values:
+    WRANGLER_RL_WHL_SPD: 56.10938
+  response: 7E8056217390E07
