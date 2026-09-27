@@ -10,8 +10,14 @@ test_cases:
     WRANGLER_IAT_01FF: 29
   response: 7E8056201FF005D
 - expected_values:
+    WRANGLER_IAT_01FF: 31
+  response: 7E8056201FF005F
+- expected_values:
     WRANGLER_IAT_01FF: 32
   response: 7E8056201FF0060
 - expected_values:
     WRANGLER_IAT_01FF: 33
   response: 7E8056201FF0061
+- expected_values:
+    WRANGLER_IAT_01FF: 36
+  response: 7E8056201FF0064

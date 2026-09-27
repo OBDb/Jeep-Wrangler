@@ -1,23 +1,8 @@
 command_id: 7E0.7E8.22012B
 test_cases:
 - expected_values:
-    WRANGLER_CAT_MODEL_T: 79
-  response: 7E80562012B028F
-- expected_values:
-    WRANGLER_CAT_MODEL_T: 86
-  response: 7E80562012B0296
-- expected_values:
-    WRANGLER_CAT_MODEL_T: 107
-  response: 7E80562012B02AB
-- expected_values:
-    WRANGLER_CAT_MODEL_T: 112
-  response: 7E80562012B02B0
-- expected_values:
-    WRANGLER_CAT_MODEL_T: 114
-  response: 7E80562012B02B2
-- expected_values:
-    WRANGLER_CAT_MODEL_T: 128
-  response: 7E80562012B02C0
+    WRANGLER_CAT_MODEL_T: 38
+  response: 7E80562012B0266
 - expected_values:
     WRANGLER_CAT_MODEL_T: 180
   response: 7E80562012B02F4

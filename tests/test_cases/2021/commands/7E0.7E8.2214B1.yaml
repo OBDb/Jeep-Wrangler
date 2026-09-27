@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     WRANGLER_THROTTLE_INLET_AIR_T: 22
   response: 7E8056214B10056
+- expected_values:
+    WRANGLER_THROTTLE_INLET_AIR_T: 23
+  response: 7E8056214B10057
+- expected_values:
+    WRANGLER_THROTTLE_INLET_AIR_T: 24
+  response: 7E8056214B10058
