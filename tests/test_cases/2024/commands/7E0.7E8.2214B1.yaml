@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2214B1
+test_cases:
+- expected_values:
+    WRANGLER_THROTTLE_INLET_AIR_T: 51
+  response: 7E8056214B10073
+- expected_values:
+    WRANGLER_THROTTLE_INLET_AIR_T: 53
+  response: 7E8056214B10075
+- expected_values:
+    WRANGLER_THROTTLE_INLET_AIR_T: 54
+  response: 7E8056214B10076
+- expected_values:
+    WRANGLER_THROTTLE_INLET_AIR_T: 55
+  response: 7E8056214B10077
+- expected_values:
+    WRANGLER_THROTTLE_INLET_AIR_T: 57
+  response: 7E8056214B10079

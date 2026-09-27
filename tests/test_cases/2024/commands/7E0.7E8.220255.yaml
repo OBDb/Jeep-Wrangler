@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220255
+test_cases:
+- expected_values:
+    WRANGLER_FUEL_MASS_CYL_1: 0
+  response: '7E8056202550000'
+- expected_values:
+    WRANGLER_FUEL_MASS_CYL_1: 9.8125
+  response: '7E8056202550274'
+- expected_values:
+    WRANGLER_FUEL_MASS_CYL_1: 11.625
+  response: 7E80562025502E8
+- expected_values:
+    WRANGLER_FUEL_MASS_CYL_1: 15.10938
+  response: 7E80562025503C7
+- expected_values:
+    WRANGLER_FUEL_MASS_CYL_1: 18.54688
+  response: 7E80562025504A3
