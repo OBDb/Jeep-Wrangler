@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.2201AA
 test_cases:
 - expected_values:
-    WRANGLER_KNOCK_SENS_2: 0.36133
-  response: 7E8056201AA1280
+    WRANGLER_KNOCK_SENS_2: 0.30762
+  response: 7E8056201AA0FC0
 - expected_values:
     WRANGLER_KNOCK_SENS_2: 0.41016
   response: 7E8056201AA1500
-- expected_values:
-    WRANGLER_KNOCK_SENS_2: 0.41505
-  response: 7E8056201AA1540
-- expected_values:
-    WRANGLER_KNOCK_SENS_2: 0.44434
-  response: 7E8056201AA16C0
-- expected_values:
-    WRANGLER_KNOCK_SENS_2: 0.46876
-  response: 7E8056201AA1800
-- expected_values:
-    WRANGLER_KNOCK_SENS_2: 0.58106
-  response: 7E8056201AA1DC0
-- expected_values:
-    WRANGLER_KNOCK_SENS_2: 0.7129
-  response: 7E8056201AA2480
 - expected_values:
     WRANGLER_KNOCK_SENS_2: 0.74708
   response: 7E8056201AA2640

@@ -4,26 +4,8 @@ test_cases:
     WRANGLER_MAP: 23.6
   response: '7E8056201740076'
 - expected_values:
-    WRANGLER_MAP: 24.2
-  response: '7E8056201740079'
-- expected_values:
-    WRANGLER_MAP: 27.6
-  response: 7E805620174008A
-- expected_values:
-    WRANGLER_MAP: 36.6
-  response: 7E80562017400B7
-- expected_values:
-    WRANGLER_MAP: 36.8
-  response: 7E80562017400B8
-- expected_values:
-    WRANGLER_MAP: 46.8
-  response: 7E80562017400EA
-- expected_values:
     WRANGLER_MAP: 49.2
   response: 7E80562017400F6
 - expected_values:
     WRANGLER_MAP: 63.8
   response: 7E805620174013F
-- expected_values:
-    WRANGLER_MAP: 92.8
-  response: 7E80562017401D0

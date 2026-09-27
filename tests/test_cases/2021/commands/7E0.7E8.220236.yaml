@@ -22,5 +22,11 @@ test_cases:
     WRANGLER_INJ_WIDTH_CYL_3: 2.32
   response: '7E80762023600000910'
 - expected_values:
+    WRANGLER_INJ_WIDTH_CYL_3: 3.48
+  response: 7E80762023600000D98
+- expected_values:
+    WRANGLER_INJ_WIDTH_CYL_3: 4.224
+  response: '7E80762023600001080'
+- expected_values:
     WRANGLER_INJ_WIDTH_CYL_3: 6.04
   response: '7E80762023600001798'
