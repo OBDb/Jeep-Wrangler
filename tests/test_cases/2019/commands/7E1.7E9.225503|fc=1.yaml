@@ -1,29 +1,29 @@
 command_id: 7E1.7E9.225503|fc=1
 test_cases:
 - expected_values:
-    JEEP_GEAR_V2: '1'
+    WRANGLER_GEAR: '1'
   response: '7E90462550301'
 - expected_values:
-    JEEP_GEAR_V2: '2'
+    WRANGLER_GEAR: '2'
   response: '7E90462550302'
 - expected_values:
-    JEEP_GEAR_V2: '3'
+    WRANGLER_GEAR: '3'
   response: '7E90462550303'
 - expected_values:
-    JEEP_GEAR_V2: '4'
+    WRANGLER_GEAR: '4'
   response: '7E90462550304'
 - expected_values:
-    JEEP_GEAR_V2: '5'
+    WRANGLER_GEAR: '5'
   response: '7E90462550305'
 - expected_values:
-    JEEP_GEAR_V2: '6'
+    WRANGLER_GEAR: '6'
   response: '7E90462550306'
 - expected_values:
-    JEEP_GEAR_V2: '7'
+    WRANGLER_GEAR: '7'
   response: '7E90462550307'
 - expected_values:
-    JEEP_GEAR_V2: REAR
+    WRANGLER_GEAR: REAR
   response: 7E9046255030B
 - expected_values:
-    JEEP_GEAR_V2: PARK
+    WRANGLER_GEAR: PARK
   response: 7E9046255030D
