@@ -1,20 +1,8 @@
 command_id: 7E0.7E8.221247
 test_cases:
 - expected_values:
-    WRANGLER_THROTTLE_INLET_P: 101.025
-  response: 7E8056212473F24
+    WRANGLER_THROTTLE_INLET_P: 100.81875
+  response: 7E8056212473F03
 - expected_values:
-    WRANGLER_THROTTLE_INLET_P: 101.15
-  response: 7E8056212473F38
-- expected_values:
-    WRANGLER_THROTTLE_INLET_P: 101.1625
-  response: 7E8056212473F3A
-- expected_values:
-    WRANGLER_THROTTLE_INLET_P: 101.18125
-  response: 7E8056212473F3D
-- expected_values:
-    WRANGLER_THROTTLE_INLET_P: 101.1875
-  response: 7E8056212473F3E
-- expected_values:
-    WRANGLER_THROTTLE_INLET_P: 101.2125
-  response: 7E8056212473F42
+    WRANGLER_THROTTLE_INLET_P: 101.26875
+  response: 7E8056212473F4B

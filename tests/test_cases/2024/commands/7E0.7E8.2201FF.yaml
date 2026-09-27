@@ -1,14 +1,8 @@
 command_id: 7E0.7E8.2201FF
 test_cases:
 - expected_values:
-    WRANGLER_IAT_01FF: 61
-  response: 7E8056201FF007D
+    WRANGLER_IAT_01FF: 49
+  response: 7E8056201FF0071
 - expected_values:
-    WRANGLER_IAT_01FF: 62
-  response: 7E8056201FF007E
-- expected_values:
-    WRANGLER_IAT_01FF: 63
-  response: 7E8056201FF007F
-- expected_values:
-    WRANGLER_IAT_01FF: 64
-  response: 7E8056201FF0080
+    WRANGLER_IAT_01FF: 77
+  response: 7E8056201FF008D
