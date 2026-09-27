@@ -4,20 +4,11 @@ test_cases:
     WRANGLER_KNOCK_SENS_2: 0.32288
   response: 7E8056201AA1088
 - expected_values:
-    WRANGLER_KNOCK_SENS_2: 0.40764
-  response: 7E8056201AA14DF
+    WRANGLER_KNOCK_SENS_2: 0.46906
+  response: 7E8056201AA1804
 - expected_values:
-    WRANGLER_KNOCK_SENS_2: 0.49371
-  response: 7E8056201AA1947
+    WRANGLER_KNOCK_SENS_2: 0.50736
+  response: 7E8056201AA19FA
 - expected_values:
-    WRANGLER_KNOCK_SENS_2: 0.50721
-  response: 7E8056201AA19F8
-- expected_values:
-    WRANGLER_KNOCK_SENS_2: 0.67376
-  response: 7E8056201AA227F
-- expected_values:
-    WRANGLER_KNOCK_SENS_2: 0.7557
-  response: 7E8056201AA26B1
-- expected_values:
-    WRANGLER_KNOCK_SENS_2: 0.93103
-  response: 7E8056201AA2FAB
+    WRANGLER_KNOCK_SENS_2: 1.23362
+  response: 7E8056201AA3F29

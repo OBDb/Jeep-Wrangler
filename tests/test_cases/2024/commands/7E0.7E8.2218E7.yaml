@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     WRANGLER_DPF_REGENS_18E7: 1144
   response: 7E8056218E70478
+- expected_values:
+    WRANGLER_DPF_REGENS_18E7: 1145
+  response: 7E8056218E70479
