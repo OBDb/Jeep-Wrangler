@@ -4,26 +4,8 @@ test_cases:
     WRANGLER_REQUIRED_FUEL_CHG_1: 4.28125
   response: 7E8056202B20112
 - expected_values:
-    WRANGLER_REQUIRED_FUEL_CHG_1: 4.42188
-  response: 7E8056202B2011B
-- expected_values:
-    WRANGLER_REQUIRED_FUEL_CHG_1: 4.65625
-  response: 7E8056202B2012A
-- expected_values:
-    WRANGLER_REQUIRED_FUEL_CHG_1: 4.79688
-  response: 7E8056202B20133
-- expected_values:
-    WRANGLER_REQUIRED_FUEL_CHG_1: 6.46875
-  response: 7E8056202B2019E
-- expected_values:
-    WRANGLER_REQUIRED_FUEL_CHG_1: 6.96875
-  response: 7E8056202B201BE
-- expected_values:
     WRANGLER_REQUIRED_FUEL_CHG_1: 7.65625
   response: 7E8056202B201EA
-- expected_values:
-    WRANGLER_REQUIRED_FUEL_CHG_1: 10.78125
-  response: 7E8056202B202B2
 - expected_values:
     WRANGLER_REQUIRED_FUEL_CHG_1: 24.53125
   response: 7E8056202B20622

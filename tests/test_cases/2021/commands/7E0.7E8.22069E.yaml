@@ -4,6 +4,9 @@ test_cases:
     WRANGLER_VARIABLE_VLV_TIM_OIL_P: 148
   response: 7E80462069E25
 - expected_values:
+    WRANGLER_VARIABLE_VLV_TIM_OIL_P: 188
+  response: 7E80462069E2F
+- expected_values:
     WRANGLER_VARIABLE_VLV_TIM_OIL_P: 192
   response: 7E80462069E30
 - expected_values:
@@ -12,6 +15,9 @@ test_cases:
 - expected_values:
     WRANGLER_VARIABLE_VLV_TIM_OIL_P: 200
   response: 7E80462069E32
+- expected_values:
+    WRANGLER_VARIABLE_VLV_TIM_OIL_P: 204
+  response: 7E80462069E33
 - expected_values:
     WRANGLER_VARIABLE_VLV_TIM_OIL_P: 208
   response: 7E80462069E34

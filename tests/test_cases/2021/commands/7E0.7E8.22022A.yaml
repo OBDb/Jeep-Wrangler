@@ -4,6 +4,9 @@ test_cases:
     WRANGLER_EOP: 20.88
   response: 7E80462022A24
 - expected_values:
+    WRANGLER_EOP: 27.26
+  response: 7E80462022A2F
+- expected_values:
     WRANGLER_EOP: 27.84
   response: 7E80462022A30
 - expected_values:

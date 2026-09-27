@@ -4,11 +4,17 @@ test_cases:
     WRANGLER_FR_WHL_SPD: 0
   response: '7E8056217380000'
 - expected_values:
+    WRANGLER_FR_WHL_SPD: 1.96875
+  response: 7E805621738007E
+- expected_values:
     WRANGLER_FR_WHL_SPD: 17.21875
   response: 7E805621738044E
 - expected_values:
     WRANGLER_FR_WHL_SPD: 25.23438
   response: 7E805621738064F
+- expected_values:
+    WRANGLER_FR_WHL_SPD: 25.45312
+  response: 7E805621738065D
 - expected_values:
     WRANGLER_FR_WHL_SPD: 41.0625
   response: 7E8056217380A44

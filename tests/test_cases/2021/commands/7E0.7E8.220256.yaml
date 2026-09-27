@@ -16,5 +16,11 @@ test_cases:
     WRANGLER_FUEL_MASS_CYL_2: 10.79688
   response: 7E80562025602B3
 - expected_values:
+    WRANGLER_FUEL_MASS_CYL_2: 16.375
+  response: '7E8056202560418'
+- expected_values:
+    WRANGLER_FUEL_MASS_CYL_2: 18.29688
+  response: '7E8056202560493'
+- expected_values:
     WRANGLER_FUEL_MASS_CYL_2: 23.5625
   response: 7E80562025605E4
