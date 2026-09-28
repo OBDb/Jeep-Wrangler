@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     WRANGLER_BAROMETRIC_P: 138.62
   response: 7E80562010901DE
+- expected_values:
+    WRANGLER_BAROMETRIC_P: 138.91
+  response: 7E80562010901DF
