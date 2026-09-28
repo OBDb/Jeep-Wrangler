@@ -4,5 +4,5 @@ test_cases:
     WRANGLER_AC_HIGH_SIDE_P: 420
   response: 7E8046203291E
 - expected_values:
-    WRANGLER_AC_HIGH_SIDE_P: 658
-  response: 7E8046203292F
+    WRANGLER_AC_HIGH_SIDE_P: 1344
+  response: '7E80462032960'
