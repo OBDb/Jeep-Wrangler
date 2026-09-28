@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22069E
 test_cases:
 - expected_values:
+    WRANGLER_VARIABLE_VLV_TIM_OIL_P: 100
+  response: 7E80462069E19
+- expected_values:
     WRANGLER_VARIABLE_VLV_TIM_OIL_P: 176
   response: 7E80462069E2C
 - expected_values:
@@ -15,3 +18,6 @@ test_cases:
 - expected_values:
     WRANGLER_VARIABLE_VLV_TIM_OIL_P: 512
   response: 7E80462069E80
+- expected_values:
+    WRANGLER_VARIABLE_VLV_TIM_OIL_P: 516
+  response: 7E80462069E81
