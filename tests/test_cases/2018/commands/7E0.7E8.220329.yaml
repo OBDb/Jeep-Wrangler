@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220329
+test_cases:
+- expected_values:
+    WRANGLER_AC_HIGH_SIDE_P: 840
+  response: 7E8046203293C
+- expected_values:
+    WRANGLER_AC_HIGH_SIDE_P: 854
+  response: 7E8046203293D
+- expected_values:
+    WRANGLER_AC_HIGH_SIDE_P: 868
+  response: 7E8046203293E
+- expected_values:
+    WRANGLER_AC_HIGH_SIDE_P: 882
+  response: 7E8046203293F
+- expected_values:
+    WRANGLER_AC_HIGH_SIDE_P: 896
+  response: '7E80462032940'
+- expected_values:
+    WRANGLER_AC_HIGH_SIDE_P: 1484
+  response: 7E8046203296A

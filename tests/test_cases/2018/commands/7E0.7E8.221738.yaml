@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221738
+test_cases:
+- expected_values:
+    WRANGLER_FR_WHL_SPD: 0
+  response: '7E8056217380000'
+- expected_values:
+    WRANGLER_FR_WHL_SPD: 83.8125
+  response: 7E80562173814F4
+- expected_values:
+    WRANGLER_FR_WHL_SPD: 84.01562
+  response: '7E8056217381501'
