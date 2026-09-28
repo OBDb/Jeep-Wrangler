@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22022A
+test_cases:
+- expected_values:
+    WRANGLER_EOP: 16.24
+  response: 7E80462022A1C
+- expected_values:
+    WRANGLER_EOP: 26.68
+  response: 7E80462022A2E
+- expected_values:
+    WRANGLER_EOP: 27.26
+  response: 7E80462022A2F
+- expected_values:
+    WRANGLER_EOP: 27.84
+  response: 7E80462022A30
+- expected_values:
+    WRANGLER_EOP: 28.42
+  response: 7E80462022A31
+- expected_values:
+    WRANGLER_EOP: 62.64
+  response: 7E80462022A6C
+- expected_values:
+    WRANGLER_EOP: 74.24
+  response: 7E80462022A80
