@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22022A
 test_cases:
 - expected_values:
+    WRANGLER_EOP: 13.92
+  response: 7E80462022A18
+- expected_values:
     WRANGLER_EOP: 16.24
   response: 7E80462022A1C
 - expected_values:
@@ -21,3 +24,6 @@ test_cases:
 - expected_values:
     WRANGLER_EOP: 74.24
   response: 7E80462022A80
+- expected_values:
+    WRANGLER_EOP: 75.4
+  response: 7E80462022A82

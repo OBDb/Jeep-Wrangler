@@ -4,5 +4,5 @@ test_cases:
     WRANGLER_IAT_01FF: 28
   response: 7E8056201FF005C
 - expected_values:
-    WRANGLER_IAT_01FF: 43
-  response: 7E8056201FF006B
+    WRANGLER_IAT_01FF: 54
+  response: 7E8056201FF0076

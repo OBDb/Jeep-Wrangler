@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.220109
 test_cases:
 - expected_values:
+    WRANGLER_BAROMETRIC_P: 140.07
+  response: 7E80562010901E3
+- expected_values:
+    WRANGLER_BAROMETRIC_P: 140.94
+  response: 7E80562010901E6
+- expected_values:
     WRANGLER_BAROMETRIC_P: 141.52
   response: 7E80562010901E8

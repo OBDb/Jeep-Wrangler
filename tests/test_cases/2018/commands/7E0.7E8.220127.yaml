@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     WRANGLER_AAT: 71.8
   response: '7E80462012756'
+- expected_values:
+    WRANGLER_AAT: 73.6
+  response: '7E80462012757'
+- expected_values:
+    WRANGLER_AAT: 75.4
+  response: '7E80462012758'
