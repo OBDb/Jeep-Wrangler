@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221247
+test_cases:
+- expected_values:
+    WRANGLER_THROTTLE_INLET_P: 106.95
+  response: 7E80562124742D8

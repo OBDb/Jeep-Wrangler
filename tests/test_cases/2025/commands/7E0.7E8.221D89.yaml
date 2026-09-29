@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221D89
+test_cases:
+- expected_values:
+    WRANGLER_FUEL_RAIL_P_TGT: 20.48
+  response: 7E805621D895000

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220329
 test_cases:
 - expected_values:
-    WRANGLER_AC_HIGH_SIDE_P: 700
-  response: '7E80462032932'
+    WRANGLER_AC_HIGH_SIDE_P: 658
+  response: 7E8046203292F
 - expected_values:
     WRANGLER_AC_HIGH_SIDE_P: 1484
   response: 7E8046203296A

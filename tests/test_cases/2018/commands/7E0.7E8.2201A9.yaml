@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.2201A9
 test_cases:
 - expected_values:
-    WRANGLER_KNOCK_SENS_1: 0.45899
-  response: 7E8056201A91780
+    WRANGLER_KNOCK_SENS_1: 0
+  response: 7E8056201A90000
 - expected_values:
     WRANGLER_KNOCK_SENS_1: 0.46387
   response: 7E8056201A917C0
-- expected_values:
-    WRANGLER_KNOCK_SENS_1: 0.46876
-  response: 7E8056201A91800
 - expected_values:
     WRANGLER_KNOCK_SENS_1: 1.09865
   response: 7E8056201A93840
