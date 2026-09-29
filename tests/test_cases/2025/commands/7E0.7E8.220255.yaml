@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220255
+test_cases:
+- expected_values:
+    WRANGLER_FUEL_MASS_CYL_1: 29.1875
+  response: 7E805620255074C

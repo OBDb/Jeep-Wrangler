@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220234
+test_cases:
+- expected_values:
+    WRANGLER_INJ_WIDTH_CYL_1: 1.511
+  response: 7E807620234000005E7

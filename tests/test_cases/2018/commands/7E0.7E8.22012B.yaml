@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22012B
 test_cases:
 - expected_values:
-    WRANGLER_CAT_MODEL_T: 107
-  response: 7E80562012B02AB
+    WRANGLER_CAT_MODEL_T: 180
+  response: 7E80562012B01F4
 - expected_values:
     WRANGLER_CAT_MODEL_T: 188
   response: 7E80562012B02FC
