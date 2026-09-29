@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     WRANGLER_CAT_MODEL_T: 151
   response: 7E80562012B01D7
+- expected_values:
+    WRANGLER_CAT_MODEL_T: -37
+  response: 7E80562012B021B
+- expected_values:
+    WRANGLER_CAT_MODEL_T: -20
+  response: 7E80562012B022C

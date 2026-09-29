@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     WRANGLER_LOW_SIDE_ECT: 31
   response: 7E8046212C95F
+- expected_values:
+    WRANGLER_LOW_SIDE_ECT: 50
+  response: 7E8046212C972
+- expected_values:
+    WRANGLER_LOW_SIDE_ECT: 56
+  response: 7E8046212C978
