@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.2206C2
 test_cases:
 - expected_values:
-    WRANGLER_INT_CAM_1_OFFSET: 2
-  response: 7E8056206C20014
-- expected_values:
-    WRANGLER_INT_CAM_1_OFFSET: 26.6
-  response: 7E8056206C2010A
+    WRANGLER_INT_CAM_1_OFFSET: 0.9
+  response: 7E8056206C20009
 - expected_values:
     WRANGLER_INT_CAM_1_OFFSET: 51.1
   response: 7E8056206C201FF
 - expected_values:
-    WRANGLER_INT_CAM_1_OFFSET: -2.2
-  response: 7E8056206C2FFEA
+    WRANGLER_INT_CAM_1_OFFSET: -2.4
+  response: 7E8056206C2FFE8
