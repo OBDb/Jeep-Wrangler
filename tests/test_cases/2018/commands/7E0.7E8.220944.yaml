@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220944
 test_cases:
 - expected_values:
-    WRANGLER_BRAKE_BOOSTER_P: 68.55
-  response: 7E8056209441AC7
+    WRANGLER_BRAKE_BOOSTER_P: 67.45
+  response: 7E8056209441A59
 - expected_values:
     WRANGLER_BRAKE_BOOSTER_P: 71.3
   response: 7E8056209441BDA
@@ -10,5 +10,5 @@ test_cases:
     WRANGLER_BRAKE_BOOSTER_P: 76.8
   response: 7E8056209441E00
 - expected_values:
-    WRANGLER_BRAKE_BOOSTER_P: 80.65
-  response: 7E8056209441F81
+    WRANGLER_BRAKE_BOOSTER_P: 80.1
+  response: 7E8056209441F4A
