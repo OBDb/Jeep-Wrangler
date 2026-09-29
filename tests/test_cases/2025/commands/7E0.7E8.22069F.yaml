@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     WRANGLER_VARIABLE_VLV_TIM_OIL_T: 32
   response: 7E80462069F60
+- expected_values:
+    WRANGLER_VARIABLE_VLV_TIM_OIL_T: 66
+  response: 7E80462069F82
+- expected_values:
+    WRANGLER_VARIABLE_VLV_TIM_OIL_T: 90
+  response: 7E80462069F9A
