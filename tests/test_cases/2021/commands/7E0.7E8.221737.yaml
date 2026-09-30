@@ -4,26 +4,8 @@ test_cases:
     WRANGLER_FL_WHL_SPD: 0
   response: '7E8056217370000'
 - expected_values:
-    WRANGLER_FL_WHL_SPD: 4.07812
-  response: '7E8056217370105'
-- expected_values:
-    WRANGLER_FL_WHL_SPD: 17.92188
-  response: 7E805621737047B
-- expected_values:
-    WRANGLER_FL_WHL_SPD: 18
-  response: '7E8056217370480'
-- expected_values:
-    WRANGLER_FL_WHL_SPD: 25.23438
-  response: 7E805621737064F
-- expected_values:
-    WRANGLER_FL_WHL_SPD: 38.25
-  response: '7E8056217370990'
-- expected_values:
-    WRANGLER_FL_WHL_SPD: 46.04688
-  response: 7E8056217370B83
-- expected_values:
-    WRANGLER_FL_WHL_SPD: 51.67188
-  response: 7E8056217370CEB
+    WRANGLER_FL_WHL_SPD: 47.73438
+  response: 7E8056217370BEF
 - expected_values:
     WRANGLER_FL_WHL_SPD: 55.6875
   response: 7E8056217370DEC

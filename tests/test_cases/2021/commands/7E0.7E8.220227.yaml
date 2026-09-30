@@ -8,6 +8,9 @@ test_cases:
   response: 7E8046202279F
 - expected_values:
     WRANGLER_FLI_INPUT: 100
+  response: 7E804620227A1
+- expected_values:
+    WRANGLER_FLI_INPUT: 100
   response: 7E804620227A3
 - expected_values:
     WRANGLER_FLI_INPUT: 100
