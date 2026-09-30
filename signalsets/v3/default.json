@@ -331,7 +331,7 @@
   "signals": [
     {"id": "WRANGLER_IAT_1935", "path": "Engine", "fmt": { "len": 16, "max": 65495, "min": -40, "add": -40, "unit": "fahrenheit" }, "name": "Intake manifold air temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1D89"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1D89"}, "freq": 1, "dbgfilter": { "to": 2020, "years": [2022, 2023, 2024], "from": 2026 },
   "signals": [
     {"id": "WRANGLER_FUEL_RAIL_P_TGT", "path": "Fuel", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "unknown" }, "name": "Fuel rail pressure, target"}
   ]},
