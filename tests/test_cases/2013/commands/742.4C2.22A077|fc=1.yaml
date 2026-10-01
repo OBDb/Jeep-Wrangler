@@ -8,3 +8,11 @@ test_cases:
   response: |-
     4C2100B62A077000000
     4C22100000000000000
+- expected_values:
+    WRANGLER_FL_TIRE_P: null
+    WRANGLER_FR_TIRE_P: null
+    WRANGLER_RL_TIRE_P: null
+    WRANGLER_RR_TIRE_P: null
+  response: |-
+    4C2100B62A077000000
+    4C221FFFFFFFFFF0000
