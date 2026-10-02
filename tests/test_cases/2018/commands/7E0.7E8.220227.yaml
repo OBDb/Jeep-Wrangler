@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220227
 test_cases:
 - expected_values:
-    WRANGLER_FLI_INPUT: 100
+    WRANGLER_FLI_INPUT: 42.35294
   response: 7E8046202276C
 - expected_values:
-    WRANGLER_FLI_INPUT: 100
+    WRANGLER_FLI_INPUT: 49.01961
   response: 7E8046202277D
