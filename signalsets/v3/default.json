@@ -403,7 +403,7 @@
   "signals": [
     {"id": "WRANGLER_ATF_T_2118", "path": "Transmission", "fmt": { "len": 16, "max": 983, "min": -40, "div": 64, "add": -40, "unit": "fahrenheit" }, "name": "Transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"21": "30"}, "freq": 5, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"21": "30"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015], "from": 2017 },
   "signals": [
     {"id": "WRANGLER_ATF_T_2130", "path": "Transmission", "fmt": {"bix": 88, "len": 8, "max": 205, "min": -50, "add": -50, "unit": "celsius" }, "name": "Transmission fluid temperature, variant 3"}
   ]},
