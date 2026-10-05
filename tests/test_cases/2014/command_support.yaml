@@ -73,6 +73,10 @@ supported_commands_by_ecu:
   - 7E1.7E9.0131
   - 7E1.7E9.215C|fc=1:WRANGLER_ATF_T_215C
 unsupported_commands_by_ecu:
+  "6A2":
+  - 6A2.682.22D402
+  - 6A2.682.22D880
+  - 6A2.682.22D8D0
   "6B4":
   - 6B4.694.22D410
   "740":
