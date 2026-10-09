@@ -1,13 +1,13 @@
 command_id: 7E0.0144
 test_cases:
 - expected_values:
-    EQ_RAT: 0.9572
+    EQ_RAT: 0.95718
   response: 7E80441447A85
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: '7E80441448000'
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D63
@@ -20,7 +20,7 @@ test_cases:
     7E8076201CA00003CC1
     7E80462067C0C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D6F
@@ -33,7 +33,7 @@ test_cases:
     7E8076201CA00004ED2
     7E80462067C11
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D6F
@@ -46,7 +46,7 @@ test_cases:
     7E8076201CA00001DF2
     7E80462067C18
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D73
@@ -55,7 +55,7 @@ test_cases:
     7E80562019E039F
     7E8046203D612
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D75
@@ -68,7 +68,7 @@ test_cases:
     7E8076201CA000042EC
     7E80462067C0D
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D7A
@@ -81,7 +81,7 @@ test_cases:
     7E8076201CA00001484
     7E80462067C19
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D7F
@@ -94,7 +94,7 @@ test_cases:
     7E8076201CA0000464C
     7E80462067C40
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D81
@@ -107,14 +107,14 @@ test_cases:
     7E8076201CA0000AF20
     7E80462067C3B
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D85
     7E8046201234D
     7E8056201D50313
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D8E
@@ -127,7 +127,7 @@ test_cases:
     7E8076201CA000013C3
     7E80462067C11
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D8F
@@ -140,7 +140,7 @@ test_cases:
     7E8076201CA0000E1A7
     7E80462067C3C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D90
@@ -153,7 +153,7 @@ test_cases:
     7E8076201CA00001D7C
     7E80462067C03
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D93
@@ -166,7 +166,7 @@ test_cases:
     7E8076201CA00001AC2
     7E80462067C0F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D94
@@ -179,7 +179,7 @@ test_cases:
     7E8076201CA0000115A
     7E80462067C18
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D95
@@ -192,7 +192,7 @@ test_cases:
     7E8076201CA000013A4
     7E80462067C13
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D99
@@ -205,7 +205,7 @@ test_cases:
     7E8076201CA000013CC
     7E80462067C07
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D9D
@@ -218,7 +218,7 @@ test_cases:
     7E8076201CA00001A31
     7E80462067CF6
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011D9F
@@ -231,7 +231,7 @@ test_cases:
     7E8076201CA0000672E
     7E80462067C3F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA0
@@ -244,7 +244,7 @@ test_cases:
     7E8076201CA0000D733
     7E80462067C40
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA1
@@ -257,7 +257,7 @@ test_cases:
     7E8076201CA000111F1
     7E80462067C41
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA1
@@ -266,7 +266,7 @@ test_cases:
     7E80562019E039F
     7E8046203D600
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA1
@@ -279,7 +279,7 @@ test_cases:
     7E8076201CA00001401
     7E80462067C13
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA3
@@ -292,7 +292,7 @@ test_cases:
     7E8076201CA000020E5
     7E80462067C3D
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA3
@@ -305,7 +305,7 @@ test_cases:
     7E8076201CA000018E8
     7E80462067C39
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA3
@@ -314,7 +314,7 @@ test_cases:
     7E80562019E03B1
     7E8046203D652
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA3
@@ -327,7 +327,7 @@ test_cases:
     7E8076201CA000012FF
     7E80462067C26
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA4
@@ -340,7 +340,7 @@ test_cases:
     7E8076201CA0000ABFA
     7E80462067C3B
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA4
@@ -353,7 +353,7 @@ test_cases:
     7E8076201CA00000C28
     7E80462067C48
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA4
@@ -366,7 +366,7 @@ test_cases:
     7E8076201CA000155D3
     7E80462067C14
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA4
@@ -379,7 +379,7 @@ test_cases:
     7E8076201CA00003F49
     7E80462067C2E
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA6
@@ -392,7 +392,7 @@ test_cases:
     7E8076201CA00001410
     7E80462067C0B
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA7
@@ -401,7 +401,7 @@ test_cases:
     7E80562019E0399
     7E8046203D600
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462011DA9
@@ -414,7 +414,7 @@ test_cases:
     7E8076201CA00002E88
     7E80462067C3D
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201233E
@@ -426,7 +426,7 @@ test_cases:
     7E8076201CA00009A15
     7E80462067C42
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201233F
@@ -438,7 +438,7 @@ test_cases:
     7E8076201CA0000A475
     7E80462067C3E
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012340
@@ -450,7 +450,7 @@ test_cases:
     7E8076201CA00001330
     7E80462067C5B
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012340
@@ -462,7 +462,7 @@ test_cases:
     7E8076201CA0000DDC0
     7E80462067C3C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012341
@@ -474,7 +474,7 @@ test_cases:
     7E8076201CA00001322
     7E80462067C12
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012342
@@ -486,7 +486,7 @@ test_cases:
     7E8076201CA00000FEB
     7E80462067C4C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012342
@@ -498,7 +498,7 @@ test_cases:
     7E8076201CA0000948A
     7E80462067C27
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012342
@@ -510,7 +510,7 @@ test_cases:
     7E8076201CA000096BF
     7E80462067C45
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012347
@@ -518,7 +518,7 @@ test_cases:
     7E80562019E03B1
     7E8046203D68F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012348
@@ -530,7 +530,7 @@ test_cases:
     7E8076201CA0000137C
     7E80462067C00
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201234B
@@ -542,7 +542,7 @@ test_cases:
     7E8076201CA00000FFE
     7E80462067C19
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201234C
@@ -563,13 +563,13 @@ test_cases:
     7E8076201CA0000458D
     7E80462067C39
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201234E
     7E8056201D50691
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201234E
@@ -581,13 +581,13 @@ test_cases:
     7E8076201CA0000E2CD
     7E80462067C3D
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201234F
     7E8056201D502B0
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201234F
@@ -608,13 +608,13 @@ test_cases:
     7E8076201CA000014AD
     7E80462067C13
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012353
     7E8056201D507A5
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012355
@@ -626,7 +626,7 @@ test_cases:
     7E8076201CA00001746
     7E80462067C30
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012355
@@ -634,7 +634,7 @@ test_cases:
     7E80562019E039F
     7E8046203D60D
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012355
@@ -646,7 +646,7 @@ test_cases:
     7E8076201CA0000149C
     7E80462067C39
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012356
@@ -658,7 +658,7 @@ test_cases:
     7E8076201CA00001AE0
     7E80462067C11
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012357
@@ -670,7 +670,7 @@ test_cases:
     7E8076201CA00001007
     7E80462067C3C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201235D
@@ -691,7 +691,7 @@ test_cases:
     7E8076201CA00001B09
     7E80462067C11
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201235E
@@ -703,7 +703,7 @@ test_cases:
     7E8076201CA00002030
     7E80462067CFE
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201235F
@@ -711,7 +711,7 @@ test_cases:
     7E80562019E039B
     7E8046203D62B
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012362
@@ -723,13 +723,13 @@ test_cases:
     7E8076201CA0000313A
     7E80462067C28
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012364
     7E8056201D502CF
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012365
@@ -741,7 +741,7 @@ test_cases:
     7E8076201CA0000CE24
     7E80462067C48
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012366
@@ -749,7 +749,7 @@ test_cases:
     7E80562019E03A3
     7E8046203D60E
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012368
@@ -757,7 +757,7 @@ test_cases:
     7E80562019E0396
     7E8046203D600
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012378
@@ -769,7 +769,7 @@ test_cases:
     7E8076201CA000155F7
     7E80462067C2F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201237B
@@ -781,7 +781,7 @@ test_cases:
     7E8076201CA0000118D
     7E80462067C04
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012386
@@ -793,70 +793,70 @@ test_cases:
     7E8076201CA000015E2
     7E80462067C12
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201273D
     7E8076201CA0000C383
     7E80462067C3E
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012744
     7E8076201CA00000F25
     7E80462067C14
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012744
     7E8076201CA00001300
     7E80462067C35
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012745
     7E8076201CA0000A119
     7E80462067C22
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012746
     7E8076201CA00001931
     7E80462067C3F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012747
     7E8076201CA000117D2
     7E80462067C1E
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201274A
     7E8076201CA000087D8
     7E80462067C29
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046201274D
     7E8076201CA0000175B
     7E80462067CFA
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462012752
     7E8076201CA00009FAC
     7E80462067C3F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462022770
@@ -864,7 +864,7 @@ test_cases:
     7E8076201CA000012BC
     7E80462067C11
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462022779
@@ -872,7 +872,7 @@ test_cases:
     7E8076201CA000063E0
     7E80462067C55
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046202277A
@@ -880,12 +880,12 @@ test_cases:
     7E8076201CA0000123F
     7E80462067C51
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046202277C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046202277C
@@ -893,7 +893,7 @@ test_cases:
     7E8076201CA00000E5F
     7E80462067C1B
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046202277D
@@ -901,7 +901,7 @@ test_cases:
     7E8076201CA00000FA8
     7E80462067CF8
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046202277F
@@ -909,7 +909,7 @@ test_cases:
     7E8076201CA00007AAE
     7E80462067C5C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462022795
@@ -917,7 +917,7 @@ test_cases:
     7E8076201CA00001054
     7E80462067C1C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E804620227AF
@@ -925,7 +925,7 @@ test_cases:
     7E8076201CA0001407D
     7E80462067C2E
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E804620227B2
@@ -933,7 +933,7 @@ test_cases:
     7E8076201CA000012F8
     7E80462067C02
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E804620227C1
@@ -941,7 +941,7 @@ test_cases:
     7E8076201CA0000B168
     7E80462067C44
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E804620227C3
@@ -949,7 +949,7 @@ test_cases:
     7E8076201CA000044EF
     7E80462067C40
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046203D600
@@ -958,7 +958,7 @@ test_cases:
     7E8076201CA00001D72
     7E80462067C0F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046203D600
@@ -967,7 +967,7 @@ test_cases:
     7E8076201CA000012A7
     7E80462067C13
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046203D600
@@ -976,7 +976,7 @@ test_cases:
     7E8076201CA0000126F
     7E80462067C0D
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046203D610
@@ -985,7 +985,7 @@ test_cases:
     7E8076201CA0000315C
     7E80462067C48
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046203D620
@@ -994,7 +994,7 @@ test_cases:
     7E8076201CA0000124D
     7E80462067CFE
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046203D629
@@ -1003,7 +1003,7 @@ test_cases:
     7E8076201CA0000446F
     7E80462067C0E
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046203D62F
@@ -1012,7 +1012,7 @@ test_cases:
     7E8076201CA0000114E
     7E80462067CF8
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046203D63B
@@ -1021,7 +1021,7 @@ test_cases:
     7E8076201CA000054DF
     7E80462067C3E
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046203D66D
@@ -1030,7 +1030,7 @@ test_cases:
     7E8076201CA00009EA7
     7E80462067C41
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046203D671
@@ -1039,12 +1039,12 @@ test_cases:
     7E8076201CA0000C201
     7E80462067C41
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046203D675
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8046203D687
@@ -1053,12 +1053,12 @@ test_cases:
     7E8076201CA0000A7C7
     7E80462067C4E
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462067C04
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462067C0E
@@ -1072,12 +1072,12 @@ test_cases:
     7E8076201CA00004561
     7E80462067C0F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462067C1F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462067C2A
@@ -1091,7 +1091,7 @@ test_cases:
     7E8076201CA00008A12
     7E80462067C24
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462067C2C
@@ -1105,7 +1105,7 @@ test_cases:
     7E8076201CA000048A0
     7E80462067C1F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462067C34
@@ -1119,12 +1119,12 @@ test_cases:
     7E8076201CA0000C2AC
     7E80462067C38
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462067C40
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462067C4D
@@ -1138,12 +1138,12 @@ test_cases:
     7E8076201CA00006FD4
     7E80462067C4D
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80462067C66
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E0383
@@ -1153,7 +1153,7 @@ test_cases:
     7E8076201CA000018A2
     7E80462067C0C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E038C
@@ -1163,7 +1163,7 @@ test_cases:
     7E8076201CA00002B9A
     7E80462067C43
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E0395
@@ -1173,7 +1173,7 @@ test_cases:
     7E8076201CA00003519
     7E80462067C48
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E0398
@@ -1183,7 +1183,7 @@ test_cases:
     7E8076201CA0000104F
     7E80462067C1C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E039C
@@ -1193,7 +1193,7 @@ test_cases:
     7E8076201CA00004E20
     7E80462067C43
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E039D
@@ -1203,7 +1203,7 @@ test_cases:
     7E8076201CA00006FCF
     7E80462067C3D
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E039E
@@ -1213,7 +1213,7 @@ test_cases:
     7E8076201CA000059EF
     7E80462067C4F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E039F
@@ -1223,7 +1223,7 @@ test_cases:
     7E8076201CA00004A0D
     7E80462067C47
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E039F
@@ -1233,7 +1233,7 @@ test_cases:
     7E8076201CA0000C895
     7E80462067C49
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E03A2
@@ -1243,7 +1243,7 @@ test_cases:
     7E8076201CA000124C8
     7E80462067C14
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E03A4
@@ -1262,7 +1262,7 @@ test_cases:
     7E8076201CA0000D354
     7E80462067C3C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E03A8
@@ -1272,7 +1272,7 @@ test_cases:
     7E8076201CA000016BC
     7E80462067C62
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E03A9
@@ -1282,7 +1282,7 @@ test_cases:
     7E8076201CA00000E32
     7E80462067C50
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E03AB
@@ -1292,7 +1292,7 @@ test_cases:
     7E8076201CA00001186
     7E80462067C01
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E03AC
@@ -1302,7 +1302,7 @@ test_cases:
     7E8076201CA0000104B
     7E80462067C15
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E03AC
@@ -1311,7 +1311,7 @@ test_cases:
     7E80462012749
     7E8076201CA000094A2
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E03B1
@@ -1321,12 +1321,12 @@ test_cases:
     7E8076201CA0000568F
     7E80462067C4B
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E03B2
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E80562019E03B2
@@ -1336,7 +1336,7 @@ test_cases:
     7E8076201CA0000100B
     7E80462067C38
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D5023B
@@ -1347,7 +1347,7 @@ test_cases:
     7E8076201CA00001840
     7E80462067C3B
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D5025F
@@ -1358,7 +1358,7 @@ test_cases:
     7E8076201CA00001A77
     7E80462067C37
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D50279
@@ -1369,7 +1369,7 @@ test_cases:
     7E8076201CA00001611
     7E80462067C24
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D5027A
@@ -1380,7 +1380,7 @@ test_cases:
     7E8076201CA00001BD3
     7E80462067C13
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D5027E
@@ -1391,7 +1391,7 @@ test_cases:
     7E8076201CA00001B51
     7E80462067C11
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D50284
@@ -1402,7 +1402,7 @@ test_cases:
     7E8076201CA00001A47
     7E80462067C1D
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D502A0
@@ -1413,7 +1413,7 @@ test_cases:
     7E8076201CA000010C8
     7E80462067C17
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D502A1
@@ -1424,7 +1424,7 @@ test_cases:
     7E8076201CA0000139E
     7E80462067C0C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D502A2
@@ -1435,7 +1435,7 @@ test_cases:
     7E8076201CA000017DE
     7E80462067C10
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D502A2
@@ -1446,7 +1446,7 @@ test_cases:
     7E8076201CA0000116C
     7E80462067C1F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D502A3
@@ -1457,7 +1457,7 @@ test_cases:
     7E8076201CA000029AF
     7E80462067C21
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D502A9
@@ -1468,7 +1468,7 @@ test_cases:
     7E8076201CA00001066
     7E80462067C19
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D502AB
@@ -1479,7 +1479,7 @@ test_cases:
     7E8076201CA000013FE
     7E80462067CFB
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D502C6
@@ -1490,12 +1490,12 @@ test_cases:
     7E8076201CA00000FF3
     7E80462067C1B
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D50311
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D50314
@@ -1506,7 +1506,7 @@ test_cases:
     7E8076201CA00001E24
     7E80462067C0D
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D503B3
@@ -1517,7 +1517,7 @@ test_cases:
     7E8076201CA000010AF
     7E80462067C26
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D503C8
@@ -1528,14 +1528,14 @@ test_cases:
     7E8076201CA000042A9
     7E80462067C36
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D503D6
     7E80562019E03AC
     7E8046203D62F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D50486
@@ -1555,7 +1555,7 @@ test_cases:
     7E8076201CA00001232
     7E80462067C48
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D5058A
@@ -1575,14 +1575,14 @@ test_cases:
     7E8076201CA00001683
     7E80462067CFB
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D505B3
     7E80562019E03BB
     7E8046203D640
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D505FB
@@ -1593,19 +1593,19 @@ test_cases:
     7E8076201CA00004FFF
     7E80462067C48
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D505FF
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D5067F
     7E80562019E039F
     7E8046203D660
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D506AC
@@ -1616,14 +1616,14 @@ test_cases:
     7E8076201CA00006C00
     7E80462067C4A
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D507A6
     7E80562019E03A9
     7E8046203D61C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D507EC
@@ -1634,7 +1634,7 @@ test_cases:
     7E8076201CA0000FF29
     7E80462067C1C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D508AC
@@ -1645,19 +1645,19 @@ test_cases:
     7E8076201CA000122B3
     7E80462067C1B
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D508BA
     7E80562019E03B1
     7E8046203D67B
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D50903
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D509AB
@@ -1677,7 +1677,7 @@ test_cases:
     7E8076201CA0000D495
     7E80462067C44
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D509EE
@@ -1688,7 +1688,7 @@ test_cases:
     7E8076201CA00010291
     7E80462067C3F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D50A2B
@@ -1699,7 +1699,7 @@ test_cases:
     7E8076201CA00009B2F
     7E80462067C54
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8056201D50E07
@@ -1710,31 +1710,31 @@ test_cases:
     7E8076201CA00017435
     7E80462067C2F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8076201CA00000E07
     7E80462067C4A
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8076201CA00000FC7
     7E80462067C50
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8076201CA00001246
     7E80462067C03
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8076201CA00001334
     7E80462067CFD
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8076201CA00001360
@@ -1749,13 +1749,13 @@ test_cases:
     7E8076201CA00001356
     7E80462067C11
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8076201CA00001AF0
     7E80462067C42
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8076201CA0000A3DB
@@ -1770,7 +1770,7 @@ test_cases:
     7E8076201CA0000A54E
     7E80462067C41
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8076201CA0000A73A
@@ -1785,7 +1785,7 @@ test_cases:
     7E8076201CA0000A11E
     7E80462067C41
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8076201CA0000A75D
@@ -1800,7 +1800,7 @@ test_cases:
     7E8076201CA0000154A
     7E80462067C65
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8076201CA0000B9A9
@@ -1815,19 +1815,19 @@ test_cases:
     7E8076201CA0000C354
     7E80462067C38
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8076201CA0000C009
     7E80462067C38
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8076201CA0000C19E
     7E80462067C49
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8076201CA0000EF0E
@@ -1842,7 +1842,7 @@ test_cases:
     7E8076201CA0000B4A7
     7E80462067C44
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E8300801800000006F
@@ -1850,7 +1850,7 @@ test_cases:
     EQ_RAT: 1.99
   response: 7E8044144FFFF
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80462011D80
     7E80441448000
@@ -1863,7 +1863,7 @@ test_cases:
     7E8076201CA000016AC
     7E80462067C13
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80462011DA0
     7E80441448000
@@ -1876,7 +1876,7 @@ test_cases:
     7E8076201CA0000F0AB
     7E80462067C3B
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80462011DA7
     7E80441448000
@@ -1889,7 +1889,7 @@ test_cases:
     7E8076201CA0000DB63
     7E80462067C4F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E8046201234E
     7E80441448000
@@ -1901,7 +1901,7 @@ test_cases:
     7E8076201CA0000137A
     7E80462067C04
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80462012377
     7E80441448000
@@ -1913,28 +1913,28 @@ test_cases:
     7E8076201CA000014BB
     7E80462067C21
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80462012744
     7E80441448000
     7E8076201CA00004899
     7E80462067C3F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80462012746
     7E80441448000
     7E8076201CA0000CECC
     7E80462067C2E
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E8046201274D
     7E80441448000
     7E8076201CA00001662
     7E80462067C26
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E8046202277E
     7E80441448000
@@ -1942,7 +1942,7 @@ test_cases:
     7E8076201CA00005F03
     7E80462067C12
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E804620227C0
     7E80441448000
@@ -1950,7 +1950,7 @@ test_cases:
     7E8076201CA0000161F
     7E80462067C03
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80562019E03BA
     7E80441448000
@@ -1960,12 +1960,12 @@ test_cases:
     7E8076201CA00001829
     7E80462067C0F
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E8056201D502A9
     7E80441448000
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E8056201D502CE
     7E80441448000
@@ -1976,7 +1976,7 @@ test_cases:
     7E8076201CA00001170
     7E80462067C19
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E8056201D504FC
     7E80441448000
@@ -1987,12 +1987,12 @@ test_cases:
     7E8076201CA00005B86
     7E80462067C39
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E8056201D50759
     7E80441448000
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E8056201D50779
     7E80441448000
@@ -2003,13 +2003,13 @@ test_cases:
     7E8076201CA0000C58D
     7E80462067C26
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E8076201CA00003809
     7E80441448000
     7E80462067C2C
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E8076201CA000093B7
     7E80441448000
