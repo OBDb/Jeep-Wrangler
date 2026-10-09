@@ -1,31 +1,31 @@
 command_id: 7E0.0144
 test_cases:
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: "0144\n7E8 04 41 44 80 00 "
 - expected_values:
-    EQ_RAT: 0.8766
+    EQ_RAT: 0.87659
   response: '7E80441447034'
 - expected_values:
-    EQ_RAT: 0.89256
+    EQ_RAT: 0.89255
   response: 7E8044144723F
 - expected_values:
-    EQ_RAT: 0.93022
+    EQ_RAT: 0.93021
   response: '7E80441447711'
 - expected_values:
-    EQ_RAT: 0.9521
+    EQ_RAT: 0.95209
   response: 7E804414479DE
 - expected_values:
-    EQ_RAT: 0.96635
+    EQ_RAT: 0.96634
   response: 7E80441447BB1
 - expected_values:
-    EQ_RAT: 0.97139
+    EQ_RAT: 0.97137
   response: 7E80441447C56
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: '7E80441448000'
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: |-
     7E80441448000
     7E803412FE5
