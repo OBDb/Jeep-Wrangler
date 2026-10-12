@@ -255,7 +255,7 @@
   "signals": [
     {"id": "WRANGLER_INT_CAM_1_OFFSET", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "degrees" }, "name": "Intake camshaft 1 to crankshaft offset"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "06F3"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2017, 2018, 2019, 2020, 2022, 2023], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "06F3"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2017, 2019, 2020, 2022, 2023], "from": 2026 },
   "signals": [
     {"id": "WRANGLER_FUEL_RAIL_P_06F3", "path": "Fuel", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "unknown" }, "name": "Fuel rail pressure"}
   ]},
@@ -403,7 +403,7 @@
   "signals": [
     {"id": "WRANGLER_ATF_T_2118", "path": "Transmission", "fmt": { "len": 16, "max": 983, "min": -40, "div": 64, "add": -40, "unit": "fahrenheit" }, "name": "Transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"21": "30"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013], "from": 2017 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"21": "30"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2017], "from": 2019 },
   "signals": [
     {"id": "WRANGLER_ATF_T_2130", "path": "Transmission", "fmt": {"bix": 88, "len": 8, "max": 205, "min": -50, "add": -50, "unit": "celsius" }, "name": "Transmission fluid temperature, variant 3"}
   ]},
