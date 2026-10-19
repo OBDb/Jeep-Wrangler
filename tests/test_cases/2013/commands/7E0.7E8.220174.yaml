@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220174
+test_cases:
+- expected_values:
+    WRANGLER_MAP: 28.8
+  response: '7E8056201740090'
+- expected_values:
+    WRANGLER_MAP: 50.4
+  response: 7E80562017400FC
+- expected_values:
+    WRANGLER_MAP: 56.4
+  response: 7E805620174011A

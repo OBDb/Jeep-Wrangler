@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2201FF
+test_cases:
+- expected_values:
+    WRANGLER_IAT_01FF: 66
+  response: 7E8056201FF0082
+- expected_values:
+    WRANGLER_IAT_01FF: 68
+  response: 7E8056201FF0084
+- expected_values:
+    WRANGLER_IAT_01FF: 69
+  response: 7E8056201FF0085
+- expected_values:
+    WRANGLER_IAT_01FF: 70
+  response: 7E8056201FF0086
+- expected_values:
+    WRANGLER_IAT_01FF: 71
+  response: 7E8056201FF0087
+- expected_values:
+    WRANGLER_IAT_01FF: 72
+  response: 7E8056201FF0088
+- expected_values:
+    WRANGLER_IAT_01FF: 73
+  response: 7E8056201FF0089
