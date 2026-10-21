@@ -7,5 +7,8 @@ test_cases:
     WRANGLER_KNOCK_SENS_2: 0.16274
   response: 7E8056201AA0855
 - expected_values:
+    WRANGLER_KNOCK_SENS_2: 0.21836
+  response: 7E8056201AA0B2E
+- expected_values:
     WRANGLER_KNOCK_SENS_2: 0.41192
   response: 7E8056201AA1517

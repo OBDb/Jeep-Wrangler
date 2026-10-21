@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2206F3
 test_cases:
 - expected_values:
+    WRANGLER_FUEL_RAIL_P_06F3: 7.532
+  response: 7E8056206F31D6C
+- expected_values:
     WRANGLER_FUEL_RAIL_P_06F3: 12.293
   response: 7E8056206F33005
 - expected_values:

@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2202B4
 test_cases:
 - expected_values:
+    WRANGLER_REQUIRED_FUEL_CHG_3: 7.96875
+  response: 7E8056202B401FE
+- expected_values:
     WRANGLER_REQUIRED_FUEL_CHG_3: 13.75
   response: 7E8056202B40370
 - expected_values:
