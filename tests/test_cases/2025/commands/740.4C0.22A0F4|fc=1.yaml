@@ -1,6 +1,18 @@
 command_id: 740.4C0.22A0F4|fc=1
 test_cases:
 - expected_values:
+    WRANGLER_TP_RL: 35
+    WRANGLER_TT_RL: 14
+  response: |-
+    4C0100962A0F4008C40
+    4C02100515FF4008C40
+- expected_values:
+    WRANGLER_TP_RL: 36
+    WRANGLER_TT_RL: 19
+  response: |-
+    4C0100962A0F4009045
+    4C02100515FF4009045
+- expected_values:
     WRANGLER_TP_RL: 39.5
     WRANGLER_TT_RL: 16
   response: |-
@@ -14,22 +26,10 @@ test_cases:
     4C021700B5FF4009E42
 - expected_values:
     WRANGLER_TP_RL: 39.5
-    WRANGLER_TT_RL: 21
-  response: |-
-    4C0100962A0F4009E47
-    4C02100915FF4009E47
-- expected_values:
-    WRANGLER_TP_RL: 39.5
     WRANGLER_TT_RL: 22
   response: |-
     4C0100962A0F4009E48
     4C0211F0B5FF4009E48
-- expected_values:
-    WRANGLER_TP_RL: 40
-    WRANGLER_TT_RL: 16
-  response: |-
-    4C0100962A0F400A042
-    4C02100915FF400A042
 - expected_values:
     WRANGLER_TP_RL: 40.5
     WRANGLER_TT_RL: 29
@@ -42,12 +42,6 @@ test_cases:
   response: |-
     4C0100962A0F400A44B
     4C021FF0B5FF400A44B
-- expected_values:
-    WRANGLER_TP_RL: 41
-    WRANGLER_TT_RL: 30
-  response: |-
-    4C0100962A0F400A450
-    4C0210F035FF400A450
 - expected_values:
     WRANGLER_TP_RL: 43.5
     WRANGLER_TT_RL: 32

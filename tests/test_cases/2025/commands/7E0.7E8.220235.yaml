@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.220235
 test_cases:
 - expected_values:
+    WRANGLER_INJ_WIDTH_CYL_2: 0.653
+  response: 7E8076202350000028D
+- expected_values:
     WRANGLER_INJ_WIDTH_CYL_2: 0.918
   response: '7E80762023500000396'
 - expected_values:

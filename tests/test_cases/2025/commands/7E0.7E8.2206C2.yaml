@@ -4,6 +4,9 @@ test_cases:
     WRANGLER_INT_CAM_1_OFFSET: 0.3
   response: 7E8056206C20003
 - expected_values:
+    WRANGLER_INT_CAM_1_OFFSET: 0.7
+  response: 7E8056206C20007
+- expected_values:
     WRANGLER_INT_CAM_1_OFFSET: 35.6
   response: 7E8056206C20164
 - expected_values:
