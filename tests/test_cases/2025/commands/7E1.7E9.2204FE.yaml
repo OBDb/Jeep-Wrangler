@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.2204FE
 test_cases:
 - expected_values:
-    WRANGLER_ATF_T: 69.8
-  response: 7E9066204FE3D393C
+    WRANGLER_ATF_T: 66.2
+  response: 7E9066204FE3B383A
 - expected_values:
     WRANGLER_ATF_T: 194
   response: 7E9066204FE828483
