@@ -31,17 +31,17 @@ test_cases:
     4C0100962A0F2008C40
     4C021590B5DF2008C40
 - expected_values:
+    WRANGLER_TP_FR: 35
+    WRANGLER_TT_FR: 16
+  response: |-
+    4C0100962A0F2008C42
+    4C0213F0B5DF2008C42
+- expected_values:
     WRANGLER_TP_FR: 36
     WRANGLER_TT_FR: 17
   response: |-
     4C0100962A0F2009043
     4C02100915DF2009043
-- expected_values:
-    WRANGLER_TP_FR: 36
-    WRANGLER_TT_FR: 18
-  response: |-
-    4C0100962A0F2009044
-    4C0211F0B5DF2009044
 - expected_values:
     WRANGLER_TP_FR: 36
     WRANGLER_TT_FR: 20
