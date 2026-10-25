@@ -29,7 +29,7 @@ test_cases:
     WRANGLER_TT_RR: 13
   response: |-
     4C0100962A0F3008C3F
-    4C02100515EF3008C3F
+    4C02100035EF3008C3F
 - expected_values:
     WRANGLER_TP_RR: 35
     WRANGLER_TT_RR: 14
