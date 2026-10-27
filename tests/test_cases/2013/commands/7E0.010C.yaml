@@ -451,9 +451,6 @@ test_cases:
     7E8076201CA0000DA84
     7E80462067C3E
 - expected_values:
-    RPM: 2380
-  response: 7E804410C2530
-- expected_values:
     RPM: 2992
   response: |-
     7E804410C2EC0
@@ -464,6 +461,9 @@ test_cases:
     7E8046201273D
     7E8076201CA00010B3F
     7E80462067C43
+- expected_values:
+    RPM: 3166
+  response: 7E804410C3178
 - expected_values:
     RPM: 2136
   response: |-
