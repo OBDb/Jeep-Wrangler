@@ -74,6 +74,9 @@ test_cases:
     7E8076201CA000011D3
     7E80462067C46
 - expected_values:
+    RPM: 703
+  response: 7E804410C0AFC
+- expected_values:
     RPM: 704
   response: |-
     7E804410C0B00
@@ -207,9 +210,6 @@ test_cases:
     7E8046201273C
     7E8076201CA00001347
     7E80462067C1F
-- expected_values:
-    RPM: 1343
-  response: 7E804410C14FC
 - expected_values:
     RPM: 1378
   response: |-
