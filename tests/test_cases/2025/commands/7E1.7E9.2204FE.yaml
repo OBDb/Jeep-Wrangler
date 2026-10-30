@@ -11,4 +11,4 @@ test_cases:
   response: 7E9066204FE838484
 - expected_values:
     WRANGLER_ATF_T: 197.6
-  response: 7E9066204FE848383
+  response: 7E9066204FE848283
