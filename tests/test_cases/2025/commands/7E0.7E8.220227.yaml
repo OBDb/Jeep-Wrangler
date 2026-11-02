@@ -4,5 +4,5 @@ test_cases:
     WRANGLER_FLI_INPUT: 40
   response: '7E80462022766'
 - expected_values:
-    WRANGLER_FLI_INPUT: 71.76471
-  response: 7E804620227B7
+    WRANGLER_FLI_INPUT: 73.72549
+  response: 7E804620227BC
