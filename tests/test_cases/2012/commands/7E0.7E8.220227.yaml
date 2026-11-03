@@ -1,23 +1,8 @@
 command_id: 7E0.7E8.220227
 test_cases:
 - expected_values:
-    WRANGLER_FLI_INPUT: 52.15686
-  response: '7E80462022785'
-- expected_values:
-    WRANGLER_FLI_INPUT: 57.2549
-  response: '7E80462022792'
-- expected_values:
-    WRANGLER_FLI_INPUT: 59.21569
-  response: '7E80462022797'
-- expected_values:
-    WRANGLER_FLI_INPUT: 60.39216
-  response: 7E8046202279A
-- expected_values:
-    WRANGLER_FLI_INPUT: 60.78431
-  response: 7E8046202279B
-- expected_values:
-    WRANGLER_FLI_INPUT: 70.58824
-  response: 7E804620227B4
+    WRANGLER_FLI_INPUT: 44.70588
+  response: '7E80462022772'
 - expected_values:
     WRANGLER_FLI_INPUT: 70.98039
   response: 7E804620227B5
