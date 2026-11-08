@@ -35,6 +35,14 @@ test_cases:
 - expected_values:
     WRANGLER_TP_FL_AC: 32
     WRANGLER_TP_FR_AC: 31
+    WRANGLER_TP_RL_AC: 31
+    WRANGLER_TP_RR_AC: 32
+  response: |-
+    4C0100962A0A1201F20
+    4C0211F000EA1201F20
+- expected_values:
+    WRANGLER_TP_FL_AC: 32
+    WRANGLER_TP_FR_AC: 31
     WRANGLER_TP_RL_AC: 32
     WRANGLER_TP_RR_AC: 32
   response: |-
