@@ -24,3 +24,9 @@ test_cases:
 - expected_values:
     WRANGLER_FUEL_MASS_CYL_4: 24.21875
   response: 7E805620258060E
+- expected_values:
+    WRANGLER_FUEL_MASS_CYL_4: 25.29688
+  response: '7E8056202580653'
+- expected_values:
+    WRANGLER_FUEL_MASS_CYL_4: 31.85938
+  response: 7E80562025807F7
