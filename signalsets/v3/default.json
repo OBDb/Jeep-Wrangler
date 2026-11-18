@@ -275,7 +275,7 @@
   "signals": [
     {"id": "WRANGLER_CHG_AIR_T", "path": "Battery", "fmt": { "len": 8, "max": 376, "min": -83, "mul": 9, "div": 5, "add": -83, "unit": "fahrenheit" }, "name": "Charge air temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "12C9"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "12C9"}, "freq": 5, "dbgfilter": { "to": 2020, "years": [2022, 2023, 2024], "from": 2026 },
   "signals": [
     {"id": "WRANGLER_LOW_SIDE_ECT", "path": "Engine", "fmt": { "len": 8, "max": 191, "min": -64, "add": -64, "nullmin": -64, "unit": "celsius" }, "name": "Low side coolant temperature"}
   ]},
@@ -283,7 +283,7 @@
   "signals": [
     {"id": "WRANGLER_THROTTLE_INLET_AIR_T", "path": "Engine", "fmt": {"bix": 8, "len": 8, "max": 191, "min": -64, "add": -64, "unit": "celsius" }, "name": "Throttle inlet air temperature filtered"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14B3"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14B3"}, "freq": 5, "dbgfilter": { "to": 2020, "years": [2022, 2023, 2024], "from": 2026 },
   "signals": [
     {"id": "WRANGLER_THROTTLE_INLET_AIR_T_RAW", "path": "Engine", "fmt": {"bix": 8, "len": 8, "max": 191, "min": -64, "add": -64, "nullmin": -64, "unit": "celsius" }, "name": "Throttle inlet air temperature raw"}
   ]},
