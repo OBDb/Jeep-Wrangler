@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2218E7
 test_cases:
 - expected_values:
+    WRANGLER_DPF_REGENS_18E7: 323
+  response: 7E8056218E70143
+- expected_values:
     WRANGLER_DPF_REGENS_18E7: 1670
   response: 7E8056218E70686
 - expected_values:

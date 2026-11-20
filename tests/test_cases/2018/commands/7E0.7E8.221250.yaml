@@ -4,5 +4,5 @@ test_cases:
     WRANGLER_CHG_AIR_T: 75.4
   response: '7E80462125058'
 - expected_values:
-    WRANGLER_CHG_AIR_T: 111.4
-  response: 7E8046212506C
+    WRANGLER_CHG_AIR_T: 113.2
+  response: 7E8046212506D

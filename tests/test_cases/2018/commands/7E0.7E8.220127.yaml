@@ -4,6 +4,9 @@ test_cases:
     WRANGLER_AAT: 52
   response: 7E8046201274B
 - expected_values:
+    WRANGLER_AAT: 53.8
+  response: 7E8046201274C
+- expected_values:
     WRANGLER_AAT: 68.2
   response: '7E80462012754'
 - expected_values:
