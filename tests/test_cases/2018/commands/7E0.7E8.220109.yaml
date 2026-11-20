@@ -16,5 +16,8 @@ test_cases:
     WRANGLER_BAROMETRIC_P: 97.6
   response: 7E80562010901E8
 - expected_values:
+    WRANGLER_BAROMETRIC_P: 98.8
+  response: 7E80562010901EE
+- expected_values:
     WRANGLER_BAROMETRIC_P: 99.2
   response: 7E80562010901F0
